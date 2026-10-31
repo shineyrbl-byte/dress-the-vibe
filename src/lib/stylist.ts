@@ -28,10 +28,15 @@ export function statementColor(outfit: Outfit): { hex: string; hsl: HSL } | null
 
 /** How well an outfit fits a vibe. Used to fill the rack and for "surprise me". */
 export function scoreOutfit(outfit: Outfit, vibe: Vibe) {
+  // Special-occasion outfits only belong in vibes that ask for them.
+  if (["Wedding", "Costume", "Cultural Attire"].includes(outfit.category) && !vibe.categories.includes(outfit.category)) return -10;
+  if (outfit.title.toLowerCase().includes("bridal") && vibe.id !== "wedding-guest") return -10;
+  const main = outfit.colors[0] ? hexToHsl(outfit.colors[0].hex) : null;
+  // Wedding guests don't wear white. Rule #1.
+  if (vibe.id === "wedding-guest" && main && main.l > 0.8 && main.s < 0.25) return -10;
   let score = vibe.categories.includes(outfit.category) ? 3 - vibe.categories.indexOf(outfit.category) * 0.4 : 0;
   const title = outfit.title.toLowerCase();
   score += vibe.titleHints.filter((h) => title.includes(h)).length * 1.5;
-  const main = outfit.colors[0] ? hexToHsl(outfit.colors[0].hex) : null;
   if (main) {
     // Loud vibes like saturated outfits, calm vibes like soft ones.
     score += vibe.intensity > 0.7 ? main.s * 1.5 : (1 - main.s) * 0.8;

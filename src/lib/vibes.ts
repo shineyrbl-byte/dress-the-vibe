@@ -103,7 +103,7 @@ export const VIBES: Vibe[] = [
     tagline: "Don't outshine the bride. Get close though.",
     gradient: "linear-gradient(135deg,#f9d5e5,#eeac99 55%,#c3aed6)",
     keywords: ["wedding", "guest", "gala", "formal", "elegant", "ceremony", "reception", "event"],
-    categories: ["Wedding", "Modern", "Summer", "Cultural Attire"],
+    categories: ["Modern", "Summer", "Cultural Attire"],
     titleHints: ["gown", "tulle", "floral", "satin", "lace", "gala", "midi", "maxi", "peony", "gold"],
     intensity: 0.55,
     lip: { strategy: "contrast", signature: "#C25B6E", finish: "satin" },
