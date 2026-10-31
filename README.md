@@ -2,6 +2,8 @@
 
 **Tell us the vibe. We'll dress you for it: outfit and makeup, together, on you.**
 
+**Live demo: https://dress-the-vibe.vercel.app/**
+
 Getting ready is one decision, but shopping treats it as two: clothes in one app, makeup in another, and you guess whether they go together. Dress the Vibe styles the *whole look* at once.
 
 1. **You.** Upload a full-body photo (or use a sample model).
