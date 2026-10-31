@@ -1,0 +1,5268 @@
+[
+ {
+  "id": "beige_summer_set_masculine",
+  "title": "Beige Summer Set",
+  "category": "Masculine",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/b789d72c-0ba2-4c4d-a088-d9d7e1a573fb/1773801774912/file.jpg",
+  "colors": [
+   {
+    "hex": "#cfc8ba",
+    "share": 0.53
+   },
+   {
+    "hex": "#212123",
+    "share": 0.296
+   },
+   {
+    "hex": "#e9e5db",
+    "share": 0.12
+   }
+  ]
+ },
+ {
+  "id": "minimal_flow_masculine",
+  "title": "Minimal Flow",
+  "category": "Masculine",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/a0818a34-6841-46e4-8215-23a3ef8cee73/1773801741083/file.jpg",
+  "colors": [
+   {
+    "hex": "#323438",
+    "share": 0.623
+   },
+   {
+    "hex": "#45484d",
+    "share": 0.176
+   },
+   {
+    "hex": "#e2dad3",
+    "share": 0.134
+   },
+   {
+    "hex": "#706d6f",
+    "share": 0.067
+   }
+  ]
+ },
+ {
+  "id": "ocean_breeze_masculine",
+  "title": "Ocean Breeze",
+  "category": "Masculine",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/a08872bb-406d-486f-b276-69cd59be6a2a/1773801712168/file.jpg",
+  "colors": [
+   {
+    "hex": "#b4c4da",
+    "share": 0.486
+   },
+   {
+    "hex": "#d6e1f0",
+    "share": 0.209
+   },
+   {
+    "hex": "#f2ece1",
+    "share": 0.16
+   },
+   {
+    "hex": "#96a7c0",
+    "share": 0.145
+   }
+  ]
+ },
+ {
+  "id": "classic_black_suit_masculine_2",
+  "title": "Classic Black Suit",
+  "category": "Masculine",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/527fcbdf-eb50-4408-bc02-b05d2a74f154/1773801683794/file.jpg",
+  "colors": [
+   {
+    "hex": "#26292d",
+    "share": 0.737
+   },
+   {
+    "hex": "#393c41",
+    "share": 0.156
+   },
+   {
+    "hex": "#8e8c8d",
+    "share": 0.107
+   }
+  ]
+ },
+ {
+  "id": "denim_on_denim_masculine_2",
+  "title": "Denim on Denim",
+  "category": "Masculine",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/6ac3f7ef-3a24-4cc6-a80f-23c26b82c2e3/1773801653289/file.jpg",
+  "colors": [
+   {
+    "hex": "#5d83a5",
+    "share": 0.404
+   },
+   {
+    "hex": "#83a4be",
+    "share": 0.286
+   },
+   {
+    "hex": "#406486",
+    "share": 0.211
+   },
+   {
+    "hex": "#bccbd8",
+    "share": 0.1
+   }
+  ]
+ },
+ {
+  "id": "smart_casual_mix_masculine",
+  "title": "Smart Casual Mix",
+  "category": "Masculine",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/be51b789-bf4b-4b50-be70-e9a7b3410080/1773801626358/file.jpg",
+  "colors": [
+   {
+    "hex": "#3a3a3e",
+    "share": 0.5
+   },
+   {
+    "hex": "#b5986a",
+    "share": 0.218
+   },
+   {
+    "hex": "#28282c",
+    "share": 0.127
+   },
+   {
+    "hex": "#ccc1b0",
+    "share": 0.108
+   }
+  ]
+ },
+ {
+  "id": "white_shirt_jeans_masculine_2",
+  "title": "White Shirt & Jeans",
+  "category": "Masculine",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/54c04fb6-8a4c-454d-a75c-93500589c9aa/1773801599373/file.jpg",
+  "colors": [
+   {
+    "hex": "#325778",
+    "share": 0.322
+   },
+   {
+    "hex": "#264460",
+    "share": 0.206
+   },
+   {
+    "hex": "#54728d",
+    "share": 0.202
+   },
+   {
+    "hex": "#6c89a1",
+    "share": 0.172
+   }
+  ]
+ },
+ {
+  "id": "midnight_rider_masculine",
+  "title": "Midnight Rider",
+  "category": "Masculine",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/e86746dc-44b9-4a1e-9913-58db04282faf/1773801560013/file.jpg",
+  "colors": [
+   {
+    "hex": "#3f3f42",
+    "share": 0.375
+   },
+   {
+    "hex": "#2c2d2f",
+    "share": 0.363
+   },
+   {
+    "hex": "#525255",
+    "share": 0.168
+   },
+   {
+    "hex": "#959292",
+    "share": 0.094
+   }
+  ]
+ },
+ {
+  "id": "patchwork_denim_masculine",
+  "title": "Patchwork Denim",
+  "category": "Masculine",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/1797a653-851d-4180-b115-4c0b26d29d4b/1773801522709/file.jpg",
+  "colors": [
+   {
+    "hex": "#868d94",
+    "share": 0.2
+   },
+   {
+    "hex": "#797776",
+    "share": 0.196
+   },
+   {
+    "hex": "#4e5764",
+    "share": 0.181
+   },
+   {
+    "hex": "#98a4b1",
+    "share": 0.172
+   }
+  ]
+ },
+ {
+  "id": "speed_racer_masculine",
+  "title": "Speed Racer",
+  "category": "Masculine",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/19ce327f-a8cd-45f6-9755-4f4fa0719348/1773801492115/file.jpg",
+  "colors": [
+   {
+    "hex": "#313132",
+    "share": 0.435
+   },
+   {
+    "hex": "#34465c",
+    "share": 0.26
+   },
+   {
+    "hex": "#4c5b72",
+    "share": 0.147
+   },
+   {
+    "hex": "#a7a0a6",
+    "share": 0.107
+   }
+  ]
+ },
+ {
+  "id": "orange_two_piece_feminine",
+  "title": "Orange Two-Piece",
+  "category": "Feminine",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/5c9cd256-d4d2-418b-a6f4-0c022eff9c44/1773799030057/file.jpg",
+  "colors": [
+   {
+    "hex": "#f3964a",
+    "share": 0.714
+   },
+   {
+    "hex": "#fcb263",
+    "share": 0.164
+   },
+   {
+    "hex": "#f5d7bb",
+    "share": 0.122
+   }
+  ]
+ },
+ {
+  "id": "bold_high_low_feminine",
+  "title": "Bold High-Low",
+  "category": "Feminine",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/27c81cb4-10b2-4a76-8cdb-8922085f1c07/1773798977121/file.jpg",
+  "colors": [
+   {
+    "hex": "#1886b6",
+    "share": 0.305
+   },
+   {
+    "hex": "#1d6290",
+    "share": 0.287
+   },
+   {
+    "hex": "#bb3243",
+    "share": 0.148
+   },
+   {
+    "hex": "#bdcfc9",
+    "share": 0.105
+   }
+  ]
+ },
+ {
+  "id": "denim_duo_feminine",
+  "title": "Denim Duo",
+  "category": "Feminine",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/22430745-8811-4292-ac6d-5c1218040b79/1773798942214/file.jpg",
+  "colors": [
+   {
+    "hex": "#2a3653",
+    "share": 0.582
+   },
+   {
+    "hex": "#1a2233",
+    "share": 0.166
+   },
+   {
+    "hex": "#404b6c",
+    "share": 0.142
+   },
+   {
+    "hex": "#c5b7b5",
+    "share": 0.111
+   }
+  ]
+ },
+ {
+  "id": "lounge_mode_feminine",
+  "title": "Lounge Mode",
+  "category": "Feminine",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/5b443fbe-c43b-4920-b747-629ba4143c66/1773798908472/file.jpg",
+  "colors": [
+   {
+    "hex": "#a27c68",
+    "share": 0.438
+   },
+   {
+    "hex": "#916d5a",
+    "share": 0.358
+   },
+   {
+    "hex": "#f0d8c9",
+    "share": 0.158
+   }
+  ]
+ },
+ {
+  "id": "flowy_black_dress_feminine",
+  "title": "Flowy Black Dress",
+  "category": "Feminine",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/dde157f1-6585-44e2-93c1-621042286366/1773798871609/file.jpg",
+  "colors": [
+   {
+    "hex": "#282e2b",
+    "share": 0.904
+   },
+   {
+    "hex": "#b0a096",
+    "share": 0.097
+   }
+  ]
+ },
+ {
+  "id": "snowfall_street_feminine",
+  "title": "Snowfall Street",
+  "category": "Feminine",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/cf0cb263-6f08-4817-b5c8-eff75743e3ca/1773798839100/file.jpg",
+  "colors": [
+   {
+    "hex": "#d9cfc2",
+    "share": 0.288
+   },
+   {
+    "hex": "#c7bbac",
+    "share": 0.201
+   },
+   {
+    "hex": "#775256",
+    "share": 0.185
+   },
+   {
+    "hex": "#888785",
+    "share": 0.177
+   }
+  ]
+ },
+ {
+  "id": "silk_eclipse_feminine",
+  "title": "Silk Eclipse",
+  "category": "Feminine",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/0fe9dffb-4e08-486d-a2fc-ba8c3ce5138d/1773798715353/file.jpg",
+  "colors": [
+   {
+    "hex": "#e7dcd5",
+    "share": 0.999
+   }
+  ]
+ },
+ {
+  "id": "city_maverick_feminine",
+  "title": "City Maverick",
+  "category": "Feminine",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/3b4f5e3a-8aef-46ee-a324-ffbb1c82a979/1773798638284/file.jpg",
+  "colors": [
+   {
+    "hex": "#343e3f",
+    "share": 0.391
+   },
+   {
+    "hex": "#4b5152",
+    "share": 0.2
+   },
+   {
+    "hex": "#1f2829",
+    "share": 0.166
+   },
+   {
+    "hex": "#dcd0c4",
+    "share": 0.132
+   }
+  ]
+ },
+ {
+  "id": "arctic_chic_feminine",
+  "title": "Arctic Chic",
+  "category": "Feminine",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/36dff7c0-c4fe-4ad4-a48b-ee64b4b059ae/1773798514148/file.jpg",
+  "colors": [
+   {
+    "hex": "#e3dacc",
+    "share": 0.736
+   },
+   {
+    "hex": "#d3c8b6",
+    "share": 0.138
+   },
+   {
+    "hex": "#f0ebe0",
+    "share": 0.126
+   }
+  ]
+ },
+ {
+  "id": "high_neck_lace_feminine",
+  "title": "High-Neck Lace",
+  "category": "Feminine",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/9eca2415-ec2b-48fe-be6e-ddbcde58482b/1773798571116/file.jpg",
+  "colors": [
+   {
+    "hex": "#f4d4bf",
+    "share": 0.731
+   },
+   {
+    "hex": "#f1e9e4",
+    "share": 0.268
+   }
+  ]
+ },
+ {
+  "id": "denim_on_denim_masculine",
+  "title": "Denim on Denim",
+  "category": "Masculine",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/baa85bc6-70e5-43bb-aeb9-8af2c22b9486/1769671517660/file.jpg",
+  "colors": [
+   {
+    "hex": "#7592ab",
+    "share": 0.424
+   },
+   {
+    "hex": "#547390",
+    "share": 0.31
+   },
+   {
+    "hex": "#3b5772",
+    "share": 0.192
+   },
+   {
+    "hex": "#b2bfca",
+    "share": 0.073
+   }
+  ]
+ },
+ {
+  "id": "m_classic_black_suit_masculine",
+  "title": "M_Classic Black Suit",
+  "category": "Masculine",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/03200160-008d-4250-9cf1-425b05cfe78b/1769671436706/file.jpg",
+  "colors": [
+   {
+    "hex": "#302f2c",
+    "share": 0.603
+   },
+   {
+    "hex": "#20201d",
+    "share": 0.32
+   },
+   {
+    "hex": "#666665",
+    "share": 0.077
+   }
+  ]
+ },
+ {
+  "id": "m_ocean_breeze_masculine",
+  "title": "M_Ocean Breeze",
+  "category": "Masculine",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/d01323a6-d483-4b7f-8269-3baf2a59fa8e/1769671399294/file.jpg",
+  "colors": [
+   {
+    "hex": "#a6adbd",
+    "share": 0.327
+   },
+   {
+    "hex": "#efe9dd",
+    "share": 0.267
+   },
+   {
+    "hex": "#717587",
+    "share": 0.212
+   },
+   {
+    "hex": "#bac4d5",
+    "share": 0.194
+   }
+  ]
+ },
+ {
+  "id": "classic_black_suit_masculine",
+  "title": "Classic Black Suit",
+  "category": "Masculine",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/9020658f-0f9a-4bf7-90f7-a4f63fe5e200/1761807396399/file.jpg",
+  "colors": [
+   {
+    "hex": "#302f2c",
+    "share": 0.603
+   },
+   {
+    "hex": "#20201d",
+    "share": 0.32
+   },
+   {
+    "hex": "#666665",
+    "share": 0.077
+   }
+  ]
+ },
+ {
+  "id": "white_shirt_jeans_masculine",
+  "title": "White Shirt & Jeans",
+  "category": "Masculine",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/64d5e39b-d17d-4af6-b1c4-08a54451f5ed/1761807517282/file.jpg",
+  "colors": [
+   {
+    "hex": "#efe8e5",
+    "share": 0.497
+   },
+   {
+    "hex": "#1c3042",
+    "share": 0.215
+   },
+   {
+    "hex": "#354e62",
+    "share": 0.185
+   },
+   {
+    "hex": "#566a7b",
+    "share": 0.104
+   }
+  ]
+ },
+ {
+  "id": "coral_palm_set_feminine_summer",
+  "title": "Coral Palm Set",
+  "category": "Summer",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/d5e3b6aa-8afd-4887-b7ce-ce4996d78ced/1778211212630/file.jpg",
+  "colors": [
+   {
+    "hex": "#ecd5ce",
+    "share": 0.39
+   },
+   {
+    "hex": "#9a7568",
+    "share": 0.199
+   },
+   {
+    "hex": "#c2aba4",
+    "share": 0.19
+   },
+   {
+    "hex": "#f9edea",
+    "share": 0.125
+   }
+  ]
+ },
+ {
+  "id": "boho_lace_jumper_feminine_summer",
+  "title": "Boho Lace Jumper",
+  "category": "Summer",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/7e063903-320c-4be1-9ca8-9c3038700f14/1778218738162/file.jpg",
+  "colors": [
+   {
+    "hex": "#bcaea4",
+    "share": 0.404
+   },
+   {
+    "hex": "#e8e1db",
+    "share": 0.349
+   },
+   {
+    "hex": "#927566",
+    "share": 0.172
+   },
+   {
+    "hex": "#d5c8bd",
+    "share": 0.075
+   }
+  ]
+ },
+ {
+  "id": "striped_summer_feminine_summer",
+  "title": "Striped Summer",
+  "category": "Summer",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/a97e35a3-4a67-4560-9b48-33337deefc14/1778212272966/file.jpg",
+  "colors": [
+   {
+    "hex": "#9eaed0",
+    "share": 0.352
+   },
+   {
+    "hex": "#d7dbea",
+    "share": 0.29
+   },
+   {
+    "hex": "#bfcae5",
+    "share": 0.196
+   },
+   {
+    "hex": "#898492",
+    "share": 0.161
+   }
+  ]
+ },
+ {
+  "id": "lace_floral_feminine_summer",
+  "title": "Lace & Floral",
+  "category": "Summer",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/c7ef9b72-f914-4a58-9003-8938358b9829/1778207134041/file.jpg",
+  "colors": [
+   {
+    "hex": "#825f4e",
+    "share": 0.212
+   },
+   {
+    "hex": "#405c8a",
+    "share": 0.185
+   },
+   {
+    "hex": "#2c3c5e",
+    "share": 0.178
+   },
+   {
+    "hex": "#9d999e",
+    "share": 0.157
+   }
+  ]
+ },
+ {
+  "id": "tropical_maxi_feminine_summer",
+  "title": "Tropical Maxi",
+  "category": "Summer",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/b76be170-f7cd-447d-bd7a-9aa9d2b606a1/1778209843890/file.jpg",
+  "colors": [
+   {
+    "hex": "#4e3e2a",
+    "share": 0.234
+   },
+   {
+    "hex": "#847051",
+    "share": 0.231
+   },
+   {
+    "hex": "#9b8e6c",
+    "share": 0.164
+   },
+   {
+    "hex": "#dab588",
+    "share": 0.141
+   }
+  ]
+ },
+ {
+  "id": "blue_gold_bindalli_feminine_cultural_attire",
+  "title": "Blue Gold Bindalli",
+  "category": "Cultural Attire",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/2c4ae69d-79d9-4420-a05a-e86d4d255e99/1777357529863/file.png",
+  "colors": [
+   {
+    "hex": "#131529",
+    "share": 0.375
+   },
+   {
+    "hex": "#8c7b6b",
+    "share": 0.18
+   },
+   {
+    "hex": "#5a5151",
+    "share": 0.168
+   },
+   {
+    "hex": "#22243d",
+    "share": 0.163
+   }
+  ]
+ },
+ {
+  "id": "plaid_tradition_feminine_cultural_attire",
+  "title": "Plaid Tradition",
+  "category": "Cultural Attire",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/ed08dc07-699b-4b74-b2fe-b7703317e104/1776244307433/file.png",
+  "colors": [
+   {
+    "hex": "#352225",
+    "share": 0.253
+   },
+   {
+    "hex": "#473739",
+    "share": 0.229
+   },
+   {
+    "hex": "#816766",
+    "share": 0.156
+   },
+   {
+    "hex": "#645958",
+    "share": 0.133
+   }
+  ]
+ },
+ {
+  "id": "red_kimono_feminine_cultural_attire",
+  "title": "Red Kimono",
+  "category": "Cultural Attire",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/107615a6-5d9a-40ed-a758-040827c58a73/1777357585122/file.jpg",
+  "colors": [
+   {
+    "hex": "#8d201c",
+    "share": 0.33
+   },
+   {
+    "hex": "#631212",
+    "share": 0.237
+   },
+   {
+    "hex": "#b5987d",
+    "share": 0.177
+   },
+   {
+    "hex": "#915d49",
+    "share": 0.142
+   }
+  ]
+ },
+ {
+  "id": "floral_hanbok_feminine_cultural_attire",
+  "title": "Floral Hanbok",
+  "category": "Cultural Attire",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/aec8f11f-8455-4f8a-aead-fe0fef1ff7cf/1777358147366/file.jpg",
+  "colors": [
+   {
+    "hex": "#460c1b",
+    "share": 0.455
+   },
+   {
+    "hex": "#871033",
+    "share": 0.18
+   },
+   {
+    "hex": "#776e63",
+    "share": 0.142
+   },
+   {
+    "hex": "#9aa294",
+    "share": 0.117
+   }
+  ]
+ },
+ {
+  "id": "elegant_saree_feminine_cultural_attire",
+  "title": "Elegant Saree",
+  "category": "Cultural Attire",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/248ec056-2c96-44b9-bcc3-30ac52d7af86/1776334351679/file.jpg",
+  "colors": [
+   {
+    "hex": "#812122",
+    "share": 0.641
+   },
+   {
+    "hex": "#3f1211",
+    "share": 0.252
+   },
+   {
+    "hex": "#a7877d",
+    "share": 0.107
+   }
+  ]
+ },
+ {
+  "id": "hakama_set_masculine_cultural_attire",
+  "title": "Hakama Set",
+  "category": "Cultural Attire",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/8db3b5ba-e2c4-40fd-b9aa-cb33b410ffc1/1777357963092/file.jpg",
+  "colors": [
+   {
+    "hex": "#2e2d2d",
+    "share": 0.342
+   },
+   {
+    "hex": "#a69c93",
+    "share": 0.233
+   },
+   {
+    "hex": "#111111",
+    "share": 0.209
+   },
+   {
+    "hex": "#766d64",
+    "share": 0.124
+   }
+  ]
+ },
+ {
+  "id": "fiesta_floral_feminine_cultural_attire",
+  "title": "Fiesta Floral",
+  "category": "Cultural Attire",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/6222474b-f114-4f17-97eb-d4a63a89953c/1776334165104/file.jpg",
+  "colors": [
+   {
+    "hex": "#463f36",
+    "share": 0.256
+   },
+   {
+    "hex": "#a28251",
+    "share": 0.215
+   },
+   {
+    "hex": "#b7a487",
+    "share": 0.149
+   },
+   {
+    "hex": "#bc2012",
+    "share": 0.137
+   }
+  ]
+ },
+ {
+  "id": "floral_folk_feminine_cultural_attire",
+  "title": "Floral Folk",
+  "category": "Cultural Attire",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/56a2c681-ea08-498a-a9c1-53b9e2179f8b/1776244566567/file.png",
+  "colors": [
+   {
+    "hex": "#151c21",
+    "share": 0.31
+   },
+   {
+    "hex": "#651b1a",
+    "share": 0.169
+   },
+   {
+    "hex": "#2e3a44",
+    "share": 0.142
+   },
+   {
+    "hex": "#786148",
+    "share": 0.142
+   }
+  ]
+ },
+ {
+  "id": "zen_mod_masculine_urban_classic",
+  "title": "Zen Mod",
+  "category": "Urban Classic",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/e549aedc-85a2-4956-94fb-788bed8b274d/1774607573228/file.jpg",
+  "colors": [
+   {
+    "hex": "#454545",
+    "share": 0.373
+   },
+   {
+    "hex": "#333434",
+    "share": 0.347
+   },
+   {
+    "hex": "#545455",
+    "share": 0.203
+   },
+   {
+    "hex": "#858483",
+    "share": 0.077
+   }
+  ]
+ },
+ {
+  "id": "peacock_majesty_feminine_modern",
+  "title": "Peacock Majesty",
+  "category": "Modern",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/5139a979-cf15-4ed7-b554-c93e93e92288/1774603392732/file.jpg",
+  "colors": [
+   {
+    "hex": "#181a18",
+    "share": 0.365
+   },
+   {
+    "hex": "#3b423a",
+    "share": 0.198
+   },
+   {
+    "hex": "#2c2d28",
+    "share": 0.175
+   },
+   {
+    "hex": "#5b6055",
+    "share": 0.161
+   }
+  ]
+ },
+ {
+  "id": "monochrome_swan_feminine_modern",
+  "title": "Monochrome Swan",
+  "category": "Modern",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/df79ce95-7f69-4ec2-8aec-169f47809f5f/1774603644626/file.jpg",
+  "colors": [
+   {
+    "hex": "#242323",
+    "share": 0.242
+   },
+   {
+    "hex": "#776b63",
+    "share": 0.182
+   },
+   {
+    "hex": "#978e86",
+    "share": 0.17
+   },
+   {
+    "hex": "#574c45",
+    "share": 0.161
+   }
+  ]
+ },
+ {
+  "id": "gilded_onyx_feminine_modern",
+  "title": "Gilded Onyx",
+  "category": "Modern",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/4c6ea471-c456-4abd-aeea-33aab36888e6/1774603035511/file.jpg",
+  "colors": [
+   {
+    "hex": "#181819",
+    "share": 0.738
+   },
+   {
+    "hex": "#61554c",
+    "share": 0.148
+   },
+   {
+    "hex": "#a39083",
+    "share": 0.114
+   }
+  ]
+ },
+ {
+  "id": "golden_luxe_feminine_modern",
+  "title": "Golden Luxe",
+  "category": "Modern",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/e7af1597-9ee6-46e0-9dd9-c87c0ced13e1/1774602410777/file.jpg",
+  "colors": [
+   {
+    "hex": "#9b8066",
+    "share": 0.332
+   },
+   {
+    "hex": "#b5a288",
+    "share": 0.203
+   },
+   {
+    "hex": "#684d3c",
+    "share": 0.186
+   },
+   {
+    "hex": "#c0b29d",
+    "share": 0.184
+   }
+  ]
+ },
+ {
+  "id": "crystal_radiance_feminine_wedding",
+  "title": "Crystal Radiance",
+  "category": "Wedding",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/3520d991-fed4-4b60-b022-3a0ab02e3d41/1774601401219/file.jpg",
+  "colors": [
+   {
+    "hex": "#f1f1f1",
+    "share": 0.665
+   },
+   {
+    "hex": "#94796b",
+    "share": 0.193
+   },
+   {
+    "hex": "#cac0b6",
+    "share": 0.143
+   }
+  ]
+ },
+ {
+  "id": "royal_peony_feminine_modern",
+  "title": "Royal Peony",
+  "category": "Modern",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/64a6b089-1584-4cc2-ac9a-f6e027dab228/1774600843066/file.jpg",
+  "colors": [
+   {
+    "hex": "#e7c2c4",
+    "share": 0.308
+   },
+   {
+    "hex": "#481c2d",
+    "share": 0.271
+   },
+   {
+    "hex": "#b68f8b",
+    "share": 0.184
+   },
+   {
+    "hex": "#7f4e51",
+    "share": 0.182
+   }
+  ]
+ },
+ {
+  "id": "ruby_shimmer_feminine_modern",
+  "title": "Ruby Shimmer",
+  "category": "Modern",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/4ffd54fc-478b-4e84-a782-3a352dbaf6be/1774600568453/file.jpg",
+  "colors": [
+   {
+    "hex": "#3b161a",
+    "share": 0.541
+   },
+   {
+    "hex": "#532729",
+    "share": 0.224
+   },
+   {
+    "hex": "#755147",
+    "share": 0.12
+   },
+   {
+    "hex": "#b2998d",
+    "share": 0.115
+   }
+  ]
+ },
+ {
+  "id": "midnight_fringe_feminine_modern",
+  "title": "Midnight Fringe",
+  "category": "Modern",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/759605fe-0e89-4e28-a6ab-1969c420ebb6/1774603785531/file.jpg",
+  "colors": [
+   {
+    "hex": "#222226",
+    "share": 0.761
+   },
+   {
+    "hex": "#433d45",
+    "share": 0.139
+   },
+   {
+    "hex": "#8a8285",
+    "share": 0.101
+   }
+  ]
+ },
+ {
+  "id": "espresso_sharp_masculine_urban_classic",
+  "title": "Espresso Sharp",
+  "category": "Urban Classic",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/bde5f3f6-bf05-493f-b538-0c1fc1308e9d/1774607530514/file.jpg",
+  "colors": [
+   {
+    "hex": "#533a32",
+    "share": 0.554
+   },
+   {
+    "hex": "#3d2c25",
+    "share": 0.343
+   },
+   {
+    "hex": "#a59480",
+    "share": 0.104
+   }
+  ]
+ },
+ {
+  "id": "sunshine_muse_feminine_summer",
+  "title": "Sunshine Muse",
+  "category": "Summer",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/b25f027b-9aec-464f-9a7a-b18a8f08bcc7/1774958122153/file.png",
+  "colors": [
+   {
+    "hex": "#d1c393",
+    "share": 0.365
+   },
+   {
+    "hex": "#e3d6ab",
+    "share": 0.351
+   },
+   {
+    "hex": "#a9906a",
+    "share": 0.159
+   },
+   {
+    "hex": "#f5ebca",
+    "share": 0.125
+   }
+  ]
+ },
+ {
+  "id": "wildflower_soul_feminine_summer",
+  "title": "Wildflower Soul",
+  "category": "Summer",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/9630c14e-2316-42e6-bac5-2dcf07b5c45e/1774958092482/file.jpg",
+  "colors": [
+   {
+    "hex": "#8794a1",
+    "share": 0.215
+   },
+   {
+    "hex": "#454f59",
+    "share": 0.2
+   },
+   {
+    "hex": "#5a7084",
+    "share": 0.188
+   },
+   {
+    "hex": "#a2abb4",
+    "share": 0.179
+   }
+  ]
+ },
+ {
+  "id": "courtside_club_feminine_summer",
+  "title": "Courtside Club",
+  "category": "Summer",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/118c48c0-778f-418f-8fa7-41d74b8ef880/1774842950164/file.jpg",
+  "colors": [
+   {
+    "hex": "#687a8a",
+    "share": 0.319
+   },
+   {
+    "hex": "#40434a",
+    "share": 0.226
+   },
+   {
+    "hex": "#5e6975",
+    "share": 0.225
+   },
+   {
+    "hex": "#efecea",
+    "share": 0.129
+   }
+  ]
+ },
+ {
+  "id": "flower_gala_feminine_summer",
+  "title": "Flower Gala",
+  "category": "Summer",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/ce3e180a-14f2-4375-9a7a-0854e48ff655/1774836361242/file.png",
+  "colors": [
+   {
+    "hex": "#a47d69",
+    "share": 0.246
+   },
+   {
+    "hex": "#a04b36",
+    "share": 0.208
+   },
+   {
+    "hex": "#a09e93",
+    "share": 0.156
+   },
+   {
+    "hex": "#ece4db",
+    "share": 0.146
+   }
+  ]
+ },
+ {
+  "id": "tailored_edge_feminine_summer",
+  "title": "Tailored Edge",
+  "category": "Summer",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/fc9f0c43-6144-40ba-a74d-aed763b3c3e0/1774836321778/file.jpg",
+  "colors": [
+   {
+    "hex": "#ebebf0",
+    "share": 0.346
+   },
+   {
+    "hex": "#708eb3",
+    "share": 0.229
+   },
+   {
+    "hex": "#655f64",
+    "share": 0.21
+   },
+   {
+    "hex": "#b9c2d0",
+    "share": 0.115
+   }
+  ]
+ },
+ {
+  "id": "minimalist_chic_feminine_summer",
+  "title": "Minimalist Chic",
+  "category": "Summer",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/8f93aa20-71dd-471b-bac6-fa9fed7190be/1775548726853/file.jpg",
+  "colors": [
+   {
+    "hex": "#a1c1db",
+    "share": 0.289
+   },
+   {
+    "hex": "#a3abb4",
+    "share": 0.242
+   },
+   {
+    "hex": "#786b6c",
+    "share": 0.214
+   },
+   {
+    "hex": "#efefee",
+    "share": 0.161
+   }
+  ]
+ },
+ {
+  "id": "cloud_ruffle_feminine_wedding",
+  "title": "Cloud Ruffle",
+  "category": "Wedding",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/461cb2f4-b681-4642-8f2b-73a7082052e8/1770623586239/file.jpg",
+  "colors": [
+   {
+    "hex": "#fbfbfb",
+    "share": 0.876
+   },
+   {
+    "hex": "#beaea4",
+    "share": 0.124
+   }
+  ]
+ },
+ {
+  "id": "high_neck_lace_feminine_wedding",
+  "title": "High-Neck Lace",
+  "category": "Wedding",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/d2569066-7953-4c90-95de-694bdc79e461/1770622192773/file.jpg",
+  "colors": [
+   {
+    "hex": "#b3b0b2",
+    "share": 0.543
+   },
+   {
+    "hex": "#f4f4f4",
+    "share": 0.273
+   },
+   {
+    "hex": "#94796b",
+    "share": 0.184
+   }
+  ]
+ },
+ {
+  "id": "off_shoulder_satin_feminine_wedding",
+  "title": "Off-Shoulder Satin",
+  "category": "Wedding",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/bfe5899e-4421-49b9-8d1d-de94e408b1ed/1770621771413/file.jpg",
+  "colors": [
+   {
+    "hex": "#f7f5f4",
+    "share": 0.487
+   },
+   {
+    "hex": "#a79891",
+    "share": 0.186
+   },
+   {
+    "hex": "#c6b9b4",
+    "share": 0.167
+   },
+   {
+    "hex": "#e7e0de",
+    "share": 0.16
+   }
+  ]
+ },
+ {
+  "id": "pink_tulle_mini_feminine_modern",
+  "title": "Pink Tulle Mini",
+  "category": "Modern",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/b25375f2-dffa-451e-b0db-949edb87f4ce/1768285577566/file.jpg",
+  "colors": [
+   {
+    "hex": "#f2cfdf",
+    "share": 0.415
+   },
+   {
+    "hex": "#c8a5ab",
+    "share": 0.24
+   },
+   {
+    "hex": "#a07776",
+    "share": 0.216
+   },
+   {
+    "hex": "#dfbcc8",
+    "share": 0.129
+   }
+  ]
+ },
+ {
+  "id": "coquette_bow_knit_feminine_modern",
+  "title": "Coquette Bow Knit",
+  "category": "Modern",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/2494a6a1-b1bd-4016-a298-4e57e3783396/1768285526583/file.jpg",
+  "colors": [
+   {
+    "hex": "#f4f2ed",
+    "share": 0.255
+   },
+   {
+    "hex": "#6b1a24",
+    "share": 0.253
+   },
+   {
+    "hex": "#684c42",
+    "share": 0.217
+   },
+   {
+    "hex": "#92756a",
+    "share": 0.156
+   }
+  ]
+ },
+ {
+  "id": "glitter_glam_gown_feminine_modern",
+  "title": "Glitter Glam Gown",
+  "category": "Modern",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/e761f5ca-c9ca-4588-9e83-98b010b2cfde/1768285552757/file.jpg",
+  "colors": [
+   {
+    "hex": "#ede0d4",
+    "share": 0.474
+   },
+   {
+    "hex": "#a37e6f",
+    "share": 0.198
+   },
+   {
+    "hex": "#bda196",
+    "share": 0.169
+   },
+   {
+    "hex": "#cab5ab",
+    "share": 0.159
+   }
+  ]
+ },
+ {
+  "id": "city_maverick_feminine_edgy",
+  "title": "City Maverick",
+  "category": "Edgy",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/8459f978-0962-4f1c-bea5-13fa805d3bfb/1765187405304/file.jpg",
+  "colors": [
+   {
+    "hex": "#262627",
+    "share": 0.572
+   },
+   {
+    "hex": "#3c3b3b",
+    "share": 0.179
+   },
+   {
+    "hex": "#d9d0c5",
+    "share": 0.129
+   },
+   {
+    "hex": "#8c8077",
+    "share": 0.121
+   }
+  ]
+ },
+ {
+  "id": "chestnut_charm_feminine_edgy",
+  "title": "Chestnut Charm",
+  "category": "Edgy",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/d5807cf4-222f-463c-97a1-3b560240206e/1765187362042/file.jpg",
+  "colors": [
+   {
+    "hex": "#442c20",
+    "share": 0.424
+   },
+   {
+    "hex": "#251a14",
+    "share": 0.197
+   },
+   {
+    "hex": "#603c2d",
+    "share": 0.138
+   },
+   {
+    "hex": "#6e5247",
+    "share": 0.138
+   }
+  ]
+ },
+ {
+  "id": "firestarter_feminine_holiday",
+  "title": "Firestarter",
+  "category": "Holiday",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/d50930bf-e238-4ca6-bd9b-b1ba3f5c775f/1763430605258/file.jpg",
+  "colors": [
+   {
+    "hex": "#9c0305",
+    "share": 0.556
+   },
+   {
+    "hex": "#570203",
+    "share": 0.245
+   },
+   {
+    "hex": "#b1968a",
+    "share": 0.138
+   },
+   {
+    "hex": "#863933",
+    "share": 0.062
+   }
+  ]
+ },
+ {
+  "id": "electric_grace_feminine_holiday",
+  "title": "Electric Grace",
+  "category": "Holiday",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/be644fd1-b50d-436d-a6e9-e28de423359a/1763430751317/file.jpg",
+  "colors": [
+   {
+    "hex": "#000000",
+    "share": 0.548
+   },
+   {
+    "hex": "#0d1a17",
+    "share": 0.258
+   },
+   {
+    "hex": "#5a6f67",
+    "share": 0.193
+   }
+  ]
+ },
+ {
+  "id": "goldrush_feminine_holiday",
+  "title": "Goldrush",
+  "category": "Holiday",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/a1360145-aeb7-4eeb-a7b2-15e46c8a1433/1763430794718/file.jpg",
+  "colors": [
+   {
+    "hex": "#97725d",
+    "share": 0.366
+   },
+   {
+    "hex": "#654d37",
+    "share": 0.188
+   },
+   {
+    "hex": "#a1896f",
+    "share": 0.174
+   },
+   {
+    "hex": "#bdac97",
+    "share": 0.17
+   }
+  ]
+ },
+ {
+  "id": "power_play_feminine_holiday",
+  "title": "Power Play",
+  "category": "Holiday",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/4213ce4b-4c66-430e-98c7-3dc822311e7e/1763430832812/file.jpg",
+  "colors": [
+   {
+    "hex": "#0f0c08",
+    "share": 0.795
+   },
+   {
+    "hex": "#978075",
+    "share": 0.122
+   },
+   {
+    "hex": "#261e1a",
+    "share": 0.083
+   }
+  ]
+ },
+ {
+  "id": "silk_eclipse_feminine_holiday",
+  "title": "Silk Eclipse",
+  "category": "Holiday",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/3e0b632c-1fb6-4936-8902-dd6989e01c13/1763430890693/file.jpg",
+  "colors": [
+   {
+    "hex": "#a4806b",
+    "share": 0.372
+   },
+   {
+    "hex": "#ba9f8e",
+    "share": 0.213
+   },
+   {
+    "hex": "#926e5a",
+    "share": 0.157
+   },
+   {
+    "hex": "#f2e7dc",
+    "share": 0.155
+   }
+  ]
+ },
+ {
+  "id": "electric_breeze_feminine_everyday",
+  "title": "Electric Breeze",
+  "category": "Everyday",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/20fc2996-8af4-4a3a-bd6e-80088c002ee3/1763520590632/file.png",
+  "colors": [
+   {
+    "hex": "#334772",
+    "share": 0.271
+   },
+   {
+    "hex": "#1d2648",
+    "share": 0.225
+   },
+   {
+    "hex": "#613582",
+    "share": 0.183
+   },
+   {
+    "hex": "#4c246b",
+    "share": 0.133
+   }
+  ]
+ },
+ {
+  "id": "strawberry_soda_feminine_everyday",
+  "title": "Strawberry Soda",
+  "category": "Everyday",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/3a4ea61d-0586-4e3b-9585-0cef38ed14bb/1763521387161/file.png",
+  "colors": [
+   {
+    "hex": "#9b755f",
+    "share": 0.279
+   },
+   {
+    "hex": "#883429",
+    "share": 0.2
+   },
+   {
+    "hex": "#80a2a6",
+    "share": 0.176
+   },
+   {
+    "hex": "#a6b8b7",
+    "share": 0.175
+   }
+  ]
+ },
+ {
+  "id": "science_club_feminine_everyday",
+  "title": "Science Club",
+  "category": "Everyday",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/fa807030-280d-4c51-8f6d-386a9a8b85ea/1763522612143/file.jpg",
+  "colors": [
+   {
+    "hex": "#4f7fa4",
+    "share": 0.42
+   },
+   {
+    "hex": "#758f9c",
+    "share": 0.225
+   },
+   {
+    "hex": "#e5bc68",
+    "share": 0.203
+   },
+   {
+    "hex": "#516471",
+    "share": 0.103
+   }
+  ]
+ },
+ {
+  "id": "vinyl_muse_feminine_everyday",
+  "title": "Vinyl Muse",
+  "category": "Everyday",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/fda092f6-8c9e-41e2-9b14-980ed47fa5fe/1763522654800/file.jpg",
+  "colors": [
+   {
+    "hex": "#24405d",
+    "share": 0.312
+   },
+   {
+    "hex": "#131d2f",
+    "share": 0.21
+   },
+   {
+    "hex": "#481329",
+    "share": 0.154
+   },
+   {
+    "hex": "#a38b83",
+    "share": 0.131
+   }
+  ]
+ },
+ {
+  "id": "arcade_runner_masculine_casual",
+  "title": "Arcade Runner",
+  "category": "Casual",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/fd213ed0-7d38-4c1f-9713-0220ed6f6b0c/1763523021654/file.jpg",
+  "colors": [
+   {
+    "hex": "#4e3883",
+    "share": 0.373
+   },
+   {
+    "hex": "#c7d3d9",
+    "share": 0.184
+   },
+   {
+    "hex": "#3c2563",
+    "share": 0.167
+   },
+   {
+    "hex": "#8998af",
+    "share": 0.164
+   }
+  ]
+ },
+ {
+  "id": "retro_varsity_masculine_casual",
+  "title": "Retro Varsity",
+  "category": "Casual",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/52b9536a-9a07-4e20-9252-0cb9396628a9/1763523104500/file.jpg",
+  "colors": [
+   {
+    "hex": "#0e1728",
+    "share": 0.447
+   },
+   {
+    "hex": "#dca26f",
+    "share": 0.224
+   },
+   {
+    "hex": "#890707",
+    "share": 0.183
+   },
+   {
+    "hex": "#e1b88f",
+    "share": 0.092
+   }
+  ]
+ },
+ {
+  "id": "mix_tape_mood_masculine_casual",
+  "title": "Mix Tape Mood",
+  "category": "Casual",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/95a7d95d-1f04-47da-b932-bbe2941440b4/1763523160503/file.jpg",
+  "colors": [
+   {
+    "hex": "#3d6578",
+    "share": 0.567
+   },
+   {
+    "hex": "#493a59",
+    "share": 0.209
+   },
+   {
+    "hex": "#edc270",
+    "share": 0.14
+   },
+   {
+    "hex": "#ae8e4e",
+    "share": 0.084
+   }
+  ]
+ },
+ {
+  "id": "camp_hawkins_masculine_casual",
+  "title": "Camp Hawkins",
+  "category": "Casual",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/1351f9fa-1d4d-4e57-bb59-1b5075319231/1763523205288/file.jpg",
+  "colors": [
+   {
+    "hex": "#6c7486",
+    "share": 0.384
+   },
+   {
+    "hex": "#f5d18f",
+    "share": 0.362
+   },
+   {
+    "hex": "#5f616d",
+    "share": 0.158
+   },
+   {
+    "hex": "#cab08d",
+    "share": 0.097
+   }
+  ]
+ },
+ {
+  "id": "winter_waltz_feminine_holiday",
+  "title": "Winter Waltz",
+  "category": "Holiday",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/ca58d8bb-3a2f-49b2-8358-4b335f856fc4/1763431213448/file.jpg",
+  "colors": [
+   {
+    "hex": "#800708",
+    "share": 0.337
+   },
+   {
+    "hex": "#400506",
+    "share": 0.158
+   },
+   {
+    "hex": "#881b1b",
+    "share": 0.155
+   },
+   {
+    "hex": "#cdc2be",
+    "share": 0.123
+   }
+  ]
+ },
+ {
+  "id": "snowfall_street_feminine_holiday",
+  "title": "Snowfall Street",
+  "category": "Holiday",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/a7bce98d-6158-4ab2-8423-d15ffa8f0505/1763431260787/file.jpg",
+  "colors": [
+   {
+    "hex": "#4c4f54",
+    "share": 0.228
+   },
+   {
+    "hex": "#c0b1a2",
+    "share": 0.21
+   },
+   {
+    "hex": "#908880",
+    "share": 0.167
+   },
+   {
+    "hex": "#676260",
+    "share": 0.164
+   }
+  ]
+ },
+ {
+  "id": "candy_cane_lane_feminine_holiday",
+  "title": "Candy Cane Lane",
+  "category": "Holiday",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/eec00278-b8d0-49d7-a7c6-d955012b2132/1763431303493/file.jpg",
+  "colors": [
+   {
+    "hex": "#6a0e12",
+    "share": 0.592
+   },
+   {
+    "hex": "#aa9086",
+    "share": 0.196
+   },
+   {
+    "hex": "#e8e1df",
+    "share": 0.119
+   },
+   {
+    "hex": "#81463f",
+    "share": 0.092
+   }
+  ]
+ },
+ {
+  "id": "tartan_crush_feminine_holiday",
+  "title": "Tartan Crush",
+  "category": "Holiday",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/7339aab1-6d7d-4c6e-870d-3a6c3a292fe5/1763431511709/file.jpg",
+  "colors": [
+   {
+    "hex": "#0f100f",
+    "share": 0.247
+   },
+   {
+    "hex": "#4d512f",
+    "share": 0.22
+   },
+   {
+    "hex": "#61673f",
+    "share": 0.207
+   },
+   {
+    "hex": "#2b2018",
+    "share": 0.151
+   }
+  ]
+ },
+ {
+  "id": "midnight_mistletoe_feminine_holiday",
+  "title": "Midnight Mistletoe",
+  "category": "Holiday",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/03b39d52-644c-43e8-8c88-070c34a35ef3/1763431556624/file.jpg",
+  "colors": [
+   {
+    "hex": "#9d0102",
+    "share": 0.654
+   },
+   {
+    "hex": "#21160d",
+    "share": 0.224
+   },
+   {
+    "hex": "#7f685f",
+    "share": 0.122
+   }
+  ]
+ },
+ {
+  "id": "underground_edge_masculine_casual",
+  "title": "Underground Edge",
+  "category": "Casual",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/30b65647-9c25-476a-af29-2da8a2b9b75f/1759301575284/file.jpg",
+  "colors": [
+   {
+    "hex": "#131414",
+    "share": 0.378
+   },
+   {
+    "hex": "#272525",
+    "share": 0.177
+   },
+   {
+    "hex": "#423e3c",
+    "share": 0.177
+   },
+   {
+    "hex": "#756a64",
+    "share": 0.153
+   }
+  ]
+ },
+ {
+  "id": "speed_racer_masculine_racewear",
+  "title": "Speed Racer",
+  "category": "Racewear",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/de700353-7b2d-47da-b53f-9f2a5445c03a/1759301519245/file.jpg",
+  "colors": [
+   {
+    "hex": "#292a2b",
+    "share": 0.433
+   },
+   {
+    "hex": "#314662",
+    "share": 0.281
+   },
+   {
+    "hex": "#4e596c",
+    "share": 0.125
+   },
+   {
+    "hex": "#968e94",
+    "share": 0.109
+   }
+  ]
+ },
+ {
+  "id": "patchwork_denim_masculine_casual",
+  "title": "Patchwork Denim",
+  "category": "Casual",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/52bc8245-7971-4f3e-9a51-c1c568590da9/1759300913339/file.jpg",
+  "colors": [
+   {
+    "hex": "#847f7d",
+    "share": 0.306
+   },
+   {
+    "hex": "#626b76",
+    "share": 0.23
+   },
+   {
+    "hex": "#454858",
+    "share": 0.209
+   },
+   {
+    "hex": "#8a939d",
+    "share": 0.164
+   }
+  ]
+ },
+ {
+  "id": "midnight_rider_masculine_urban_classic",
+  "title": "Midnight Rider",
+  "category": "Urban Classic",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/0d1ec7d0-a01a-4628-93ee-63b11df0c6e3/1759300738245/file.jpg",
+  "colors": [
+   {
+    "hex": "#323232",
+    "share": 0.394
+   },
+   {
+    "hex": "#151516",
+    "share": 0.351
+   },
+   {
+    "hex": "#4d4b4a",
+    "share": 0.16
+   },
+   {
+    "hex": "#888382",
+    "share": 0.096
+   }
+  ]
+ },
+ {
+  "id": "bavarian_lederhosen_masculine_cultural_attire",
+  "title": "Bavarian Lederhosen",
+  "category": "Cultural Attire",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/7674fc4d-e984-4caa-9f74-b0c20b3a6b71/1759300427782/file.jpg",
+  "colors": [
+   {
+    "hex": "#383624",
+    "share": 0.542
+   },
+   {
+    "hex": "#796152",
+    "share": 0.177
+   },
+   {
+    "hex": "#a8837e",
+    "share": 0.148
+   },
+   {
+    "hex": "#c7b0ab",
+    "share": 0.133
+   }
+  ]
+ },
+ {
+  "id": "jack_o_cutie_feminine_costume",
+  "title": "Jack-O-Cutie",
+  "category": "Costume",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/4b7ddf38-c9d9-4e1f-8ea8-eceb63863463/1757577647703/file.jpg",
+  "colors": [
+   {
+    "hex": "#141314",
+    "share": 0.486
+   },
+   {
+    "hex": "#8d3313",
+    "share": 0.149
+   },
+   {
+    "hex": "#b26140",
+    "share": 0.123
+   },
+   {
+    "hex": "#a78e7d",
+    "share": 0.123
+   }
+  ]
+ },
+ {
+  "id": "citrus_pop_mini_feminine_summer",
+  "title": "Citrus Pop Mini",
+  "category": "Summer",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/24ca94b9-8b8a-47ea-8f32-7c2c6817528d/1757920003433/file.jpg",
+  "colors": [
+   {
+    "hex": "#8f7f62",
+    "share": 0.252
+   },
+   {
+    "hex": "#515330",
+    "share": 0.221
+   },
+   {
+    "hex": "#f88c42",
+    "share": 0.162
+   },
+   {
+    "hex": "#f6c19a",
+    "share": 0.141
+   }
+  ]
+ },
+ {
+  "id": "oat_cream_set_feminine_modern",
+  "title": "Oat Cream Set",
+  "category": "Modern",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/d3b33478-e2af-412a-ab25-37f5d299d1a2/1757920040046/file.jpg",
+  "colors": [
+   {
+    "hex": "#e8dedb",
+    "share": 0.335
+   },
+   {
+    "hex": "#8a6555",
+    "share": 0.193
+   },
+   {
+    "hex": "#9e7b6a",
+    "share": 0.18
+   },
+   {
+    "hex": "#ab988e",
+    "share": 0.153
+   }
+  ]
+ },
+ {
+  "id": "ocean_twist_mini_feminine_summer",
+  "title": "Ocean Twist Mini",
+  "category": "Summer",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/9bddfb22-6bdf-4fb1-b37e-e90be11519ea/1757920081095/file.jpg",
+  "colors": [
+   {
+    "hex": "#a57c6d",
+    "share": 0.258
+   },
+   {
+    "hex": "#73afdc",
+    "share": 0.225
+   },
+   {
+    "hex": "#724c51",
+    "share": 0.155
+   },
+   {
+    "hex": "#d8e6f2",
+    "share": 0.15
+   }
+  ]
+ },
+ {
+  "id": "pink_samba_maxi_feminine_summer",
+  "title": "Pink Samba Maxi",
+  "category": "Summer",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/e673c928-5abf-4c91-93f0-954cf8844c9d/1757920115155/file.jpg",
+  "colors": [
+   {
+    "hex": "#e5485a",
+    "share": 0.209
+   },
+   {
+    "hex": "#f17e8f",
+    "share": 0.197
+   },
+   {
+    "hex": "#6b544a",
+    "share": 0.197
+   },
+   {
+    "hex": "#907870",
+    "share": 0.174
+   }
+  ]
+ },
+ {
+  "id": "navy_beige_dirndl_feminine_cultural_attire",
+  "title": "Navy-Beige Dirndl",
+  "category": "Cultural Attire",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/276a21a0-9307-4a17-9599-c09481796a83/1757923585119/file.jpg",
+  "colors": [
+   {
+    "hex": "#1c2230",
+    "share": 0.219
+   },
+   {
+    "hex": "#9a8375",
+    "share": 0.206
+   },
+   {
+    "hex": "#bba89a",
+    "share": 0.191
+   },
+   {
+    "hex": "#353a47",
+    "share": 0.157
+   }
+  ]
+ },
+ {
+  "id": "thai_heritage_masculine_cultural_attire",
+  "title": "Thai Heritage",
+  "category": "Cultural Attire",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/94a8dbad-025e-4fed-9f31-6cda2a0426aa/1759300701460/file.jpg",
+  "colors": [
+   {
+    "hex": "#3e554f",
+    "share": 0.264
+   },
+   {
+    "hex": "#1c2523",
+    "share": 0.208
+   },
+   {
+    "hex": "#5c7064",
+    "share": 0.143
+   },
+   {
+    "hex": "#663128",
+    "share": 0.136
+   }
+  ]
+ },
+ {
+  "id": "blush_gold_kurta_masculine_cultural_attire",
+  "title": "Blush Gold Kurta",
+  "category": "Cultural Attire",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/62ece037-d8bb-4c27-8c37-676f842b44b6/1759300593814/file.jpg",
+  "colors": [
+   {
+    "hex": "#f1bec0",
+    "share": 0.736
+   },
+   {
+    "hex": "#fae4c1",
+    "share": 0.145
+   },
+   {
+    "hex": "#dfa1ae",
+    "share": 0.12
+   }
+  ]
+ },
+ {
+  "id": "floral_suit_masculine_urban_classic",
+  "title": "Floral Suit",
+  "category": "Urban Classic",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/5f409c99-abbd-4e8d-b7c5-eda4c5394f1a/1759300372736/file.jpg",
+  "colors": [
+   {
+    "hex": "#ebe3d4",
+    "share": 0.546
+   },
+   {
+    "hex": "#d5c8b0",
+    "share": 0.182
+   },
+   {
+    "hex": "#a79676",
+    "share": 0.146
+   },
+   {
+    "hex": "#f8f3e8",
+    "share": 0.126
+   }
+  ]
+ },
+ {
+  "id": "velour_night_masculine_urban_classic",
+  "title": "Velour Night",
+  "category": "Urban Classic",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/f508e5ca-e740-4496-8e0e-1f970c8e64cc/1759300099264/file.jpg",
+  "colors": [
+   {
+    "hex": "#111011",
+    "share": 0.374
+   },
+   {
+    "hex": "#50372c",
+    "share": 0.232
+   },
+   {
+    "hex": "#6f5648",
+    "share": 0.164
+   },
+   {
+    "hex": "#36231c",
+    "share": 0.14
+   }
+  ]
+ },
+ {
+  "id": "golden_seventies_masculine_urban_classic",
+  "title": "Golden Seventies",
+  "category": "Urban Classic",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/6c0bb130-918d-493a-a9a1-a71327c0c68b/1759300142574/file.jpg",
+  "colors": [
+   {
+    "hex": "#bb690a",
+    "share": 0.377
+   },
+   {
+    "hex": "#a3520a",
+    "share": 0.35
+   },
+   {
+    "hex": "#7e380b",
+    "share": 0.18
+   },
+   {
+    "hex": "#cba476",
+    "share": 0.093
+   }
+  ]
+ },
+ {
+  "id": "pastel_classic_masculine_urban_classic",
+  "title": "Pastel Classic",
+  "category": "Urban Classic",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/18b1fc54-826c-43c3-9a01-c3e29ee515b2/1759300188332/file.jpg",
+  "colors": [
+   {
+    "hex": "#1b1a1f",
+    "share": 0.624
+   },
+   {
+    "hex": "#dab3b7",
+    "share": 0.198
+   },
+   {
+    "hex": "#f3e3e4",
+    "share": 0.092
+   },
+   {
+    "hex": "#504449",
+    "share": 0.086
+   }
+  ]
+ },
+ {
+  "id": "sunny_pop_masculine_summer",
+  "title": "Sunny Pop",
+  "category": "Summer",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/dfa4951b-c7df-424b-8a2d-56d41b8d67e7/1757568928120/file.jpg",
+  "colors": [
+   {
+    "hex": "#e9c364",
+    "share": 0.324
+   },
+   {
+    "hex": "#d9b350",
+    "share": 0.294
+   },
+   {
+    "hex": "#5bb09b",
+    "share": 0.143
+   },
+   {
+    "hex": "#f0d7a3",
+    "share": 0.123
+   }
+  ]
+ },
+ {
+  "id": "safari_cool_masculine_casual",
+  "title": "Safari Cool",
+  "category": "Casual",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/009097fd-6f20-42eb-b2c5-ea8622e5d112/1757569576470/file.jpg",
+  "colors": [
+   {
+    "hex": "#564b31",
+    "share": 0.387
+   },
+   {
+    "hex": "#8d7d61",
+    "share": 0.181
+   },
+   {
+    "hex": "#726446",
+    "share": 0.177
+   },
+   {
+    "hex": "#413722",
+    "share": 0.16
+   }
+  ]
+ },
+ {
+  "id": "tropic_flame_masculine_summer",
+  "title": "Tropic Flame",
+  "category": "Summer",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/104b65e7-e7ca-44df-8994-bf856b45c26c/1757569639124/file.jpg",
+  "colors": [
+   {
+    "hex": "#e9ecf3",
+    "share": 0.305
+   },
+   {
+    "hex": "#dc5a33",
+    "share": 0.216
+   },
+   {
+    "hex": "#cdd0dd",
+    "share": 0.206
+   },
+   {
+    "hex": "#9a8b8d",
+    "share": 0.151
+   }
+  ]
+ },
+ {
+  "id": "tide_dye_masculine_summer",
+  "title": "Tide Dye",
+  "category": "Summer",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/1e26e113-27f8-4b9b-8118-6133ae13a355/1757562749450/file.jpg",
+  "colors": [
+   {
+    "hex": "#0a0c11",
+    "share": 0.388
+   },
+   {
+    "hex": "#61646c",
+    "share": 0.178
+   },
+   {
+    "hex": "#f3f3f4",
+    "share": 0.162
+   },
+   {
+    "hex": "#242832",
+    "share": 0.161
+   }
+  ]
+ },
+ {
+  "id": "surf_guard_masculine_summer",
+  "title": "Surf Guard",
+  "category": "Summer",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/7d4bee65-caef-4f74-8ad3-fbdb55e962dc/1757569870446/file.jpg",
+  "colors": [
+   {
+    "hex": "#26252e",
+    "share": 0.444
+   },
+   {
+    "hex": "#131317",
+    "share": 0.2
+   },
+   {
+    "hex": "#646577",
+    "share": 0.145
+   },
+   {
+    "hex": "#9699a8",
+    "share": 0.116
+   }
+  ]
+ },
+ {
+  "id": "wine_stripe_masculine_urban_classic",
+  "title": "Wine Stripe",
+  "category": "Urban Classic",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/1f752fef-8f23-4c6b-b4e2-4723a54b16a2/1757570208223/file.jpg",
+  "colors": [
+   {
+    "hex": "#6d2930",
+    "share": 0.328
+   },
+   {
+    "hex": "#45141a",
+    "share": 0.216
+   },
+   {
+    "hex": "#775152",
+    "share": 0.173
+   },
+   {
+    "hex": "#977979",
+    "share": 0.173
+   }
+  ]
+ },
+ {
+  "id": "seaside_stripes_masculine_casual",
+  "title": "Seaside Stripes",
+  "category": "Casual",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/53b7bc18-5c3d-422a-9dad-95c65d3e241f/1757570249906/file.jpg",
+  "colors": [
+   {
+    "hex": "#9b8b85",
+    "share": 0.337
+   },
+   {
+    "hex": "#b3b3bb",
+    "share": 0.201
+   },
+   {
+    "hex": "#846f67",
+    "share": 0.198
+   },
+   {
+    "hex": "#a3a1a7",
+    "share": 0.155
+   }
+  ]
+ },
+ {
+  "id": "minimal_flow_masculine_urban_classic",
+  "title": "Minimal Flow",
+  "category": "Urban Classic",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/6c8d21e0-8e10-4e86-a5cc-58ad6d438d04/1757570290261/file.jpg",
+  "colors": [
+   {
+    "hex": "#292929",
+    "share": 0.467
+   },
+   {
+    "hex": "#ede8e1",
+    "share": 0.178
+   },
+   {
+    "hex": "#191819",
+    "share": 0.17
+   },
+   {
+    "hex": "#ddd7d1",
+    "share": 0.095
+   }
+  ]
+ },
+ {
+  "id": "golden_coast_masculine_summer",
+  "title": "Golden Coast",
+  "category": "Summer",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/7c9bfd78-3061-4a27-9167-630c0a39b767/1757570336412/file.jpg",
+  "colors": [
+   {
+    "hex": "#f3bc2a",
+    "share": 0.254
+   },
+   {
+    "hex": "#f2eff1",
+    "share": 0.204
+   },
+   {
+    "hex": "#785446",
+    "share": 0.196
+   },
+   {
+    "hex": "#c8bca4",
+    "share": 0.168
+   }
+  ]
+ },
+ {
+  "id": "pastel_wave_masculine_summer",
+  "title": "Pastel Wave",
+  "category": "Summer",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/d83381cb-eff4-42ff-8e3e-0471997ff49a/1757571963031/file.jpg",
+  "colors": [
+   {
+    "hex": "#99c0e0",
+    "share": 0.372
+   },
+   {
+    "hex": "#a5b2bc",
+    "share": 0.177
+   },
+   {
+    "hex": "#eacd88",
+    "share": 0.166
+   },
+   {
+    "hex": "#9a8b86",
+    "share": 0.161
+   }
+  ]
+ },
+ {
+  "id": "lime_fresh_masculine_summer",
+  "title": "Lime Fresh",
+  "category": "Summer",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/9944b0e5-7f16-4124-8ec4-f8c7001ab1d8/1757572002740/file.jpg",
+  "colors": [
+   {
+    "hex": "#a8d688",
+    "share": 0.527
+   },
+   {
+    "hex": "#879e5c",
+    "share": 0.185
+   },
+   {
+    "hex": "#8ec06c",
+    "share": 0.15
+   },
+   {
+    "hex": "#bee49c",
+    "share": 0.138
+   }
+  ]
+ },
+ {
+  "id": "ocean_breeze_masculine_casual",
+  "title": "Ocean Breeze",
+  "category": "Casual",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/0516196e-0c09-427d-b09f-8d46340d804d/1757572234146/file.jpg",
+  "colors": [
+   {
+    "hex": "#a6adbd",
+    "share": 0.327
+   },
+   {
+    "hex": "#efe9dd",
+    "share": 0.267
+   },
+   {
+    "hex": "#717587",
+    "share": 0.212
+   },
+   {
+    "hex": "#bac4d5",
+    "share": 0.194
+   }
+  ]
+ },
+ {
+  "id": "street_chill_masculine_urban_classic",
+  "title": "Street Chill",
+  "category": "Urban Classic",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/4e8dd5fa-49c0-4f9d-a481-6f356cdc9f05/1757572273888/file.jpg",
+  "colors": [
+   {
+    "hex": "#161514",
+    "share": 0.414
+   },
+   {
+    "hex": "#2a8877",
+    "share": 0.255
+   },
+   {
+    "hex": "#486861",
+    "share": 0.126
+   },
+   {
+    "hex": "#5e9c8f",
+    "share": 0.123
+   }
+  ]
+ },
+ {
+  "id": "white_shirt_jeans_masculine_urban_classic",
+  "title": "White Shirt & Jeans",
+  "category": "Urban Classic",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/8a636e3a-bcfa-4d9a-b668-c4a16d4adf51/1757572354190/file.jpg",
+  "colors": [
+   {
+    "hex": "#efe8e5",
+    "share": 0.497
+   },
+   {
+    "hex": "#1c3042",
+    "share": 0.215
+   },
+   {
+    "hex": "#354e62",
+    "share": 0.185
+   },
+   {
+    "hex": "#566a7b",
+    "share": 0.104
+   }
+  ]
+ },
+ {
+  "id": "vintage_suspenders_masculine_urban_classic",
+  "title": "Vintage Suspenders",
+  "category": "Urban Classic",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/a745acae-1768-4928-9be7-f745e4c7d5e3/1757573005362/file.jpg",
+  "colors": [
+   {
+    "hex": "#19111c",
+    "share": 0.229
+   },
+   {
+    "hex": "#685f67",
+    "share": 0.195
+   },
+   {
+    "hex": "#f3f2f5",
+    "share": 0.184
+   },
+   {
+    "hex": "#3d353e",
+    "share": 0.172
+   }
+  ]
+ },
+ {
+  "id": "verdant_vortex_masculine_racewear",
+  "title": "Verdant Vortex",
+  "category": "Racewear",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/68561b66-b2b6-44f3-9cf3-cef172dfb66e/1757573073792/file.jpg",
+  "colors": [
+   {
+    "hex": "#e5ddd1",
+    "share": 0.284
+   },
+   {
+    "hex": "#13271a",
+    "share": 0.204
+   },
+   {
+    "hex": "#183f2e",
+    "share": 0.19
+   },
+   {
+    "hex": "#aba696",
+    "share": 0.189
+   }
+  ]
+ },
+ {
+  "id": "smart_casual_mix_masculine_urban_classic",
+  "title": "Smart Casual Mix",
+  "category": "Urban Classic",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/ede42dd3-c49a-4a8d-b05e-810dedc2e7cd/1757573122347/file.jpg",
+  "colors": [
+   {
+    "hex": "#4d494e",
+    "share": 0.593
+   },
+   {
+    "hex": "#322f32",
+    "share": 0.166
+   },
+   {
+    "hex": "#b5a389",
+    "share": 0.122
+   },
+   {
+    "hex": "#8e7b60",
+    "share": 0.119
+   }
+  ]
+ },
+ {
+  "id": "scarlet_velocity_masculine_racewear",
+  "title": "Scarlet Velocity",
+  "category": "Racewear",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/be744b9e-d2b1-4fae-a838-ac1797715ea0/1757573201496/file.jpg",
+  "colors": [
+   {
+    "hex": "#d0090b",
+    "share": 0.557
+   },
+   {
+    "hex": "#860405",
+    "share": 0.279
+   },
+   {
+    "hex": "#891d1a",
+    "share": 0.092
+   },
+   {
+    "hex": "#9c6865",
+    "share": 0.072
+   }
+  ]
+ },
+ {
+  "id": "sandstorm_sprint_masculine_racewear",
+  "title": "Sandstorm Sprint",
+  "category": "Racewear",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/1d9eb59e-82bd-4d23-8954-af85fd68a9d6/1757573254346/file.jpg",
+  "colors": [
+   {
+    "hex": "#1d1a15",
+    "share": 0.531
+   },
+   {
+    "hex": "#f7ebd5",
+    "share": 0.141
+   },
+   {
+    "hex": "#e8dbc2",
+    "share": 0.131
+   },
+   {
+    "hex": "#b9ad97",
+    "share": 0.11
+   }
+  ]
+ },
+ {
+  "id": "safari_shorts_set_masculine_casual",
+  "title": "Safari Shorts Set",
+  "category": "Casual",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/f0a9b4a8-c79f-4698-8984-992481a4e741/1757573293284/file.jpg",
+  "colors": [
+   {
+    "hex": "#746944",
+    "share": 0.371
+   },
+   {
+    "hex": "#585132",
+    "share": 0.184
+   },
+   {
+    "hex": "#887752",
+    "share": 0.173
+   },
+   {
+    "hex": "#3b3522",
+    "share": 0.172
+   }
+  ]
+ },
+ {
+  "id": "patriot_pace_masculine_racewear",
+  "title": "Patriot Pace",
+  "category": "Racewear",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/1c5adf91-01ca-4ca6-afa8-6940cf73ded3/1757574206375/file.jpg",
+  "colors": [
+   {
+    "hex": "#64a8c7",
+    "share": 0.513
+   },
+   {
+    "hex": "#5092b1",
+    "share": 0.235
+   },
+   {
+    "hex": "#d9e1ea",
+    "share": 0.131
+   },
+   {
+    "hex": "#806474",
+    "share": 0.12
+   }
+  ]
+ },
+ {
+  "id": "monochrome_speed_masculine_racewear",
+  "title": "Monochrome Speed",
+  "category": "Racewear",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/25ebc961-4e02-48b4-a1b3-3bde9578d172/1757576645255/file.jpg",
+  "colors": [
+   {
+    "hex": "#e6ded0",
+    "share": 0.43
+   },
+   {
+    "hex": "#2c2b2b",
+    "share": 0.23
+   },
+   {
+    "hex": "#b4ada3",
+    "share": 0.223
+   },
+   {
+    "hex": "#f7f3e9",
+    "share": 0.117
+   }
+  ]
+ },
+ {
+  "id": "denim_on_denim_masculine_casual",
+  "title": "Denim on Denim",
+  "category": "Casual",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/11501896-8272-4146-9fd3-06b76506a410/1757574475422/file.jpg",
+  "colors": [
+   {
+    "hex": "#7592ab",
+    "share": 0.424
+   },
+   {
+    "hex": "#547390",
+    "share": 0.31
+   },
+   {
+    "hex": "#3b5772",
+    "share": 0.192
+   },
+   {
+    "hex": "#b2bfca",
+    "share": 0.073
+   }
+  ]
+ },
+ {
+  "id": "crimson_turbo_masculine_racewear",
+  "title": "Crimson Turbo",
+  "category": "Racewear",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/065f2a92-201b-44d2-85a6-19d10ac65274/1757574918559/file.jpg",
+  "colors": [
+   {
+    "hex": "#1c1914",
+    "share": 0.682
+   },
+   {
+    "hex": "#302c28",
+    "share": 0.152
+   },
+   {
+    "hex": "#a49c97",
+    "share": 0.09
+   },
+   {
+    "hex": "#5f1315",
+    "share": 0.075
+   }
+  ]
+ },
+ {
+  "id": "classic_black_suit_masculine_urban_classic",
+  "title": "Classic Black Suit",
+  "category": "Urban Classic",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/f2c67432-7ce9-4f53-abc7-ecbd4855f1af/1757574989458/file.jpg",
+  "colors": [
+   {
+    "hex": "#302f2c",
+    "share": 0.603
+   },
+   {
+    "hex": "#20201d",
+    "share": 0.32
+   },
+   {
+    "hex": "#666665",
+    "share": 0.077
+   }
+  ]
+ },
+ {
+  "id": "burgundy_color_block_masculine_casual",
+  "title": "Burgundy Color Block",
+  "category": "Casual",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/2e267112-38f7-4266-a576-03b14d962e88/1757575302986/file.jpg",
+  "colors": [
+   {
+    "hex": "#80192c",
+    "share": 0.359
+   },
+   {
+    "hex": "#6a4e30",
+    "share": 0.227
+   },
+   {
+    "hex": "#580c1b",
+    "share": 0.185
+   },
+   {
+    "hex": "#513a21",
+    "share": 0.131
+   }
+  ]
+ },
+ {
+  "id": "beige_summer_set_masculine_casual",
+  "title": "Beige Summer Set",
+  "category": "Casual",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/7c54747b-7b48-476a-aa59-dce62425dddc/1757575431337/file.jpg",
+  "colors": [
+   {
+    "hex": "#0a0a0b",
+    "share": 0.278
+   },
+   {
+    "hex": "#a59580",
+    "share": 0.208
+   },
+   {
+    "hex": "#bdb19d",
+    "share": 0.189
+   },
+   {
+    "hex": "#756555",
+    "share": 0.124
+   }
+  ]
+ },
+ {
+  "id": "azure_apex_masculine_racewear",
+  "title": "Azure Apex",
+  "category": "Racewear",
+  "style": "masculine",
+  "thumb": "https://app-cdn.makeupar.com/cms/48c221b2-2777-4ca4-af11-b05b80310888/1757575497808/file.jpg",
+  "colors": [
+   {
+    "hex": "#0e0e10",
+    "share": 0.559
+   },
+   {
+    "hex": "#27272b",
+    "share": 0.177
+   },
+   {
+    "hex": "#545e79",
+    "share": 0.168
+   },
+   {
+    "hex": "#a4a6ae",
+    "share": 0.095
+   }
+  ]
+ },
+ {
+  "id": "spooky_dolly_feminine_costume",
+  "title": "Spooky Dolly",
+  "category": "Costume",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/3bd4fa5e-ca66-47d3-914d-b60a6012b8b7/1757577698539/file.jpg",
+  "colors": [
+   {
+    "hex": "#2b2929",
+    "share": 0.418
+   },
+   {
+    "hex": "#151414",
+    "share": 0.24
+   },
+   {
+    "hex": "#886f64",
+    "share": 0.165
+   },
+   {
+    "hex": "#a79992",
+    "share": 0.099
+   }
+  ]
+ },
+ {
+  "id": "spells_lace_feminine_costume",
+  "title": "Spells & Lace",
+  "category": "Costume",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/69b20c0c-49c6-421c-80df-3fdc78a25c27/1757578218485/file.jpg",
+  "colors": [
+   {
+    "hex": "#110f0e",
+    "share": 0.293
+   },
+   {
+    "hex": "#3c292b",
+    "share": 0.234
+   },
+   {
+    "hex": "#8d0c25",
+    "share": 0.178
+   },
+   {
+    "hex": "#a99790",
+    "share": 0.115
+   }
+  ]
+ },
+ {
+  "id": "moonlit_countess_feminine_costume",
+  "title": "Moonlit Countess",
+  "category": "Costume",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/f28c2226-534c-4ec1-8fe8-07fc9b72c309/1757578279662/file.jpg",
+  "colors": [
+   {
+    "hex": "#0f0a10",
+    "share": 0.219
+   },
+   {
+    "hex": "#a6a39f",
+    "share": 0.193
+   },
+   {
+    "hex": "#75706d",
+    "share": 0.174
+   },
+   {
+    "hex": "#231b26",
+    "share": 0.172
+   }
+  ]
+ },
+ {
+  "id": "sea_spooker_feminine_costume",
+  "title": "Sea Spooker",
+  "category": "Costume",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/b95360b3-a644-418b-9c04-e07b02f8f933/1757578319995/file.jpg",
+  "colors": [
+   {
+    "hex": "#1f1a21",
+    "share": 0.552
+   },
+   {
+    "hex": "#55494b",
+    "share": 0.173
+   },
+   {
+    "hex": "#9c908b",
+    "share": 0.158
+   },
+   {
+    "hex": "#eae6e5",
+    "share": 0.117
+   }
+  ]
+ },
+ {
+  "id": "darkly_draped_feminine_edgy",
+  "title": "Darkly Draped",
+  "category": "Edgy",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/ae835b23-0c9a-4327-8831-de5a31fded0f/1757577000331/file.jpg",
+  "colors": [
+   {
+    "hex": "#23201d",
+    "share": 0.437
+   },
+   {
+    "hex": "#f7f6f3",
+    "share": 0.181
+   },
+   {
+    "hex": "#0f0e0c",
+    "share": 0.173
+   },
+   {
+    "hex": "#423f3d",
+    "share": 0.126
+   }
+  ]
+ },
+ {
+  "id": "midnight_collar_feminine_edgy",
+  "title": "Midnight Collar",
+  "category": "Edgy",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/1d10cafb-fa12-4c40-b02f-7f5756c06f89/1757577054284/file.jpg",
+  "colors": [
+   {
+    "hex": "#1a1a16",
+    "share": 0.736
+   },
+   {
+    "hex": "#090906",
+    "share": 0.165
+   },
+   {
+    "hex": "#625c57",
+    "share": 0.1
+   }
+  ]
+ },
+ {
+  "id": "tailored_trouble_feminine_edgy",
+  "title": "Tailored Trouble",
+  "category": "Edgy",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/89e269ee-5d3c-4c49-ac15-d7555b025eb2/1757577320877/file.jpg",
+  "colors": [
+   {
+    "hex": "#1a1a18",
+    "share": 0.53
+   },
+   {
+    "hex": "#333230",
+    "share": 0.392
+   },
+   {
+    "hex": "#686461",
+    "share": 0.077
+   }
+  ]
+ },
+ {
+  "id": "night_shift_feminine_edgy",
+  "title": "Night Shift",
+  "category": "Edgy",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/92441f73-9dfa-4e32-92b9-5786dd14ef05/1757577377209/file.jpg",
+  "colors": [
+   {
+    "hex": "#1e1e1b",
+    "share": 0.609
+   },
+   {
+    "hex": "#2d2d2b",
+    "share": 0.188
+   },
+   {
+    "hex": "#0d0d0b",
+    "share": 0.119
+   },
+   {
+    "hex": "#716d6a",
+    "share": 0.084
+   }
+  ]
+ },
+ {
+  "id": "ghostly_lace_feminine_edgy",
+  "title": "Ghostly Lace",
+  "category": "Edgy",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/06d06b48-88f2-4c55-aee9-ea2db1bdc4d6/1757577523481/file.jpg",
+  "colors": [
+   {
+    "hex": "#12110e",
+    "share": 0.766
+   },
+   {
+    "hex": "#7e6c64",
+    "share": 0.123
+   },
+   {
+    "hex": "#3a2c26",
+    "share": 0.113
+   }
+  ]
+ },
+ {
+  "id": "noir_ribbon_feminine_edgy",
+  "title": "Noir Ribbon",
+  "category": "Edgy",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/78baa988-b446-4e7c-9d00-76b6eb42e89b/1757577572713/file.jpg",
+  "colors": [
+   {
+    "hex": "#1e1b19",
+    "share": 0.553
+   },
+   {
+    "hex": "#48342d",
+    "share": 0.191
+   },
+   {
+    "hex": "#79645b",
+    "share": 0.141
+   },
+   {
+    "hex": "#d5d2d0",
+    "share": 0.116
+   }
+  ]
+ },
+ {
+  "id": "final_lap_feminine_racewear",
+  "title": "Final Lap",
+  "category": "Racewear",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/b3cf4888-72a0-478f-a06c-2196a1ea793e/1757673286957/file.jpg",
+  "colors": [
+   {
+    "hex": "#241f1c",
+    "share": 0.441
+   },
+   {
+    "hex": "#994865",
+    "share": 0.163
+   },
+   {
+    "hex": "#d06e8b",
+    "share": 0.155
+   },
+   {
+    "hex": "#d597aa",
+    "share": 0.13
+   }
+  ]
+ },
+ {
+  "id": "green_light_feminine_racewear",
+  "title": "Green Light",
+  "category": "Racewear",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/ad2e9112-bc45-4bf4-83a7-25c723fc4ee2/1757673425713/file.jpg",
+  "colors": [
+   {
+    "hex": "#142621",
+    "share": 0.26
+   },
+   {
+    "hex": "#3a4f49",
+    "share": 0.225
+   },
+   {
+    "hex": "#a07a68",
+    "share": 0.166
+   },
+   {
+    "hex": "#aea5a1",
+    "share": 0.149
+   }
+  ]
+ },
+ {
+  "id": "xr_speed_feminine_racewear",
+  "title": "XR Speed",
+  "category": "Racewear",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/be107492-82a0-4b86-8689-fa49cab2b205/1757673475545/file.jpg",
+  "colors": [
+   {
+    "hex": "#262624",
+    "share": 0.399
+   },
+   {
+    "hex": "#6d6f83",
+    "share": 0.191
+   },
+   {
+    "hex": "#141415",
+    "share": 0.178
+   },
+   {
+    "hex": "#393f4e",
+    "share": 0.127
+   }
+  ]
+ },
+ {
+  "id": "pink_shift_feminine_racewear",
+  "title": "Pink Shift",
+  "category": "Racewear",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/8019c4b0-1bba-4612-ace4-26b52337e0a2/1757673522966/file.jpg",
+  "colors": [
+   {
+    "hex": "#bc3e5e",
+    "share": 0.428
+   },
+   {
+    "hex": "#e05779",
+    "share": 0.289
+   },
+   {
+    "hex": "#952845",
+    "share": 0.19
+   },
+   {
+    "hex": "#dbbabb",
+    "share": 0.092
+   }
+  ]
+ },
+ {
+  "id": "racing_line_feminine_racewear",
+  "title": "Racing Line",
+  "category": "Racewear",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/351ed608-ba74-4573-ad4d-721c3a7082df/1757673633968/file.jpg",
+  "colors": [
+   {
+    "hex": "#131211",
+    "share": 0.236
+   },
+   {
+    "hex": "#998171",
+    "share": 0.227
+   },
+   {
+    "hex": "#242221",
+    "share": 0.159
+   },
+   {
+    "hex": "#c1b6a5",
+    "share": 0.148
+   }
+  ]
+ },
+ {
+  "id": "pit_crew_feminine_racewear",
+  "title": "Pit Crew",
+  "category": "Racewear",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/dba9c912-d884-40df-b88e-99e5c243227f/1757673681941/file.jpg",
+  "colors": [
+   {
+    "hex": "#18171a",
+    "share": 0.425
+   },
+   {
+    "hex": "#c30911",
+    "share": 0.312
+   },
+   {
+    "hex": "#a68d83",
+    "share": 0.154
+   }
+  ]
+ },
+ {
+  "id": "blue_flag_feminine_racewear",
+  "title": "Blue Flag",
+  "category": "Racewear",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/c2e7a3e9-08cc-48f6-a117-ea0204fc21fc/1757673723541/file.jpg",
+  "colors": [
+   {
+    "hex": "#131212",
+    "share": 0.266
+   },
+   {
+    "hex": "#1c4378",
+    "share": 0.256
+   },
+   {
+    "hex": "#2a2724",
+    "share": 0.2
+   },
+   {
+    "hex": "#596789",
+    "share": 0.151
+   }
+  ]
+ },
+ {
+  "id": "pole_position_feminine_racewear",
+  "title": "Pole Position",
+  "category": "Racewear",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/88e027cb-5b8a-445e-bdf7-af0df53dee5b/1757673890840/file.jpg",
+  "colors": [
+   {
+    "hex": "#14130f",
+    "share": 0.523
+   },
+   {
+    "hex": "#28211e",
+    "share": 0.176
+   },
+   {
+    "hex": "#61514c",
+    "share": 0.122
+   },
+   {
+    "hex": "#c6bbb4",
+    "share": 0.111
+   }
+  ]
+ },
+ {
+  "id": "picnic_pop_mini_feminine_summer",
+  "title": "Picnic Pop Mini",
+  "category": "Summer",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/9f91eae6-ccd1-42dd-a47f-2a303210e719/1757918911751/file.png",
+  "colors": [
+   {
+    "hex": "#a23559",
+    "share": 0.527
+   },
+   {
+    "hex": "#7f2441",
+    "share": 0.192
+   },
+   {
+    "hex": "#9a705f",
+    "share": 0.187
+   },
+   {
+    "hex": "#bea497",
+    "share": 0.094
+   }
+  ]
+ },
+ {
+  "id": "tangerine_twist_feminine_summer",
+  "title": "Tangerine Twist",
+  "category": "Summer",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/79462a4f-2033-4080-a7a4-69f0a3265ff1/1757918608827/file.jpg",
+  "colors": [
+   {
+    "hex": "#d56f0f",
+    "share": 0.322
+   },
+   {
+    "hex": "#b85f15",
+    "share": 0.267
+   },
+   {
+    "hex": "#934511",
+    "share": 0.168
+   },
+   {
+    "hex": "#b26d38",
+    "share": 0.126
+   }
+  ]
+ },
+ {
+  "id": "lemon_garden_feminine_summer",
+  "title": "Lemon Garden",
+  "category": "Summer",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/b55d9243-9e4a-4500-9cfb-e50ae9247d5a/1757918650692/file.jpg",
+  "colors": [
+   {
+    "hex": "#9faab7",
+    "share": 0.203
+   },
+   {
+    "hex": "#b3bfcc",
+    "share": 0.199
+   },
+   {
+    "hex": "#956d5a",
+    "share": 0.191
+   },
+   {
+    "hex": "#577394",
+    "share": 0.175
+   }
+  ]
+ },
+ {
+  "id": "cotton_candy_mini_feminine_summer",
+  "title": "Cotton Candy Mini",
+  "category": "Summer",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/24ce9bdb-0a5c-47df-827f-d9fecab5131b/1757918883657/file.jpg",
+  "colors": [
+   {
+    "hex": "#dfbac7",
+    "share": 0.315
+   },
+   {
+    "hex": "#f2ccda",
+    "share": 0.273
+   },
+   {
+    "hex": "#976d60",
+    "share": 0.26
+   },
+   {
+    "hex": "#cba3ab",
+    "share": 0.152
+   }
+  ]
+ },
+ {
+  "id": "cherry_tile_midi_feminine_summer",
+  "title": "Cherry Tile Midi",
+  "category": "Summer",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/69b550df-949c-4bfd-a7e4-699be32c6635/1757918991776/file.jpg",
+  "colors": [
+   {
+    "hex": "#c0546b",
+    "share": 0.241
+   },
+   {
+    "hex": "#b01d39",
+    "share": 0.216
+   },
+   {
+    "hex": "#cf8d9c",
+    "share": 0.151
+   },
+   {
+    "hex": "#bb757c",
+    "share": 0.145
+   }
+  ]
+ },
+ {
+  "id": "sunbud_romper_feminine_summer",
+  "title": "Sunbud Romper",
+  "category": "Summer",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/d70c65b5-16b5-48dd-93a7-1cfec8ecc69c/1757918953122/file.jpg",
+  "colors": [
+   {
+    "hex": "#a68776",
+    "share": 0.316
+   },
+   {
+    "hex": "#ebe5d6",
+    "share": 0.311
+   },
+   {
+    "hex": "#786052",
+    "share": 0.207
+   },
+   {
+    "hex": "#c3b9a7",
+    "share": 0.167
+   }
+  ]
+ },
+ {
+  "id": "blue_breeze_feminine_summer",
+  "title": "Blue Breeze",
+  "category": "Summer",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/f0831f89-13ee-4aba-87f1-a150ed8d5e48/1757918784783/file.jpg",
+  "colors": [
+   {
+    "hex": "#2e3f75",
+    "share": 0.193
+   },
+   {
+    "hex": "#967161",
+    "share": 0.184
+   },
+   {
+    "hex": "#9097ab",
+    "share": 0.176
+   },
+   {
+    "hex": "#576e9c",
+    "share": 0.167
+   }
+  ]
+ },
+ {
+  "id": "terracotta_sky_feminine_summer",
+  "title": "Terracotta Sky",
+  "category": "Summer",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/696e4e10-35e7-445a-926d-eb868d217bfa/1757918742024/file.png",
+  "colors": [
+   {
+    "hex": "#943315",
+    "share": 0.383
+   },
+   {
+    "hex": "#610e08",
+    "share": 0.368
+   },
+   {
+    "hex": "#c29171",
+    "share": 0.128
+   },
+   {
+    "hex": "#a94c25",
+    "share": 0.121
+   }
+  ]
+ },
+ {
+  "id": "white_shirt_feminine_everyday",
+  "title": "White Shirt",
+  "category": "Everyday",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/b7736142-e2ac-4247-a3a8-c13c03be5273/1758012224489/file.png",
+  "colors": [
+   {
+    "hex": "#abaaac",
+    "share": 0.303
+   },
+   {
+    "hex": "#f5f6f6",
+    "share": 0.263
+   },
+   {
+    "hex": "#9c9696",
+    "share": 0.244
+   },
+   {
+    "hex": "#4c403b",
+    "share": 0.191
+   }
+  ]
+ },
+ {
+  "id": "yellow_knit_tee_feminine_everyday",
+  "title": "Yellow Knit Tee",
+  "category": "Everyday",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/6ab7d500-8c7d-414e-ac23-4fc7388e0378/1758012283091/file.png",
+  "colors": [
+   {
+    "hex": "#edd1a0",
+    "share": 0.506
+   },
+   {
+    "hex": "#c8af81",
+    "share": 0.314
+   },
+   {
+    "hex": "#65503e",
+    "share": 0.18
+   }
+  ]
+ },
+ {
+  "id": "off_shoulder_black_feminine_everyday",
+  "title": "Off-Shoulder Black",
+  "category": "Everyday",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/2496a4bc-5a66-49eb-816a-5937b6e8351b/1758012409423/file.jpg",
+  "colors": [
+   {
+    "hex": "#1c191a",
+    "share": 0.964
+   }
+  ]
+ },
+ {
+  "id": "brown_moto_chic_feminine_edgy",
+  "title": "Brown Moto Chic",
+  "category": "Edgy",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/d80e2982-1486-4fc2-8120-8502a172af9f/1758012454778/file.jpg",
+  "colors": [
+   {
+    "hex": "#241f1c",
+    "share": 0.517
+   },
+   {
+    "hex": "#443631",
+    "share": 0.216
+   },
+   {
+    "hex": "#5b4b47",
+    "share": 0.163
+   },
+   {
+    "hex": "#84746f",
+    "share": 0.104
+   }
+  ]
+ },
+ {
+  "id": "strapless_peplum_top_feminine_modern",
+  "title": "Strapless Peplum Top",
+  "category": "Modern",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/77cd9f91-34ea-44c2-873e-3481961d82be/1758012537711/file.jpg",
+  "colors": [
+   {
+    "hex": "#232222",
+    "share": 0.76
+   },
+   {
+    "hex": "#997a6b",
+    "share": 0.163
+   },
+   {
+    "hex": "#4d3b33",
+    "share": 0.077
+   }
+  ]
+ },
+ {
+  "id": "shiny_metallic_shirt_feminine_edgy",
+  "title": "Shiny Metallic Shirt",
+  "category": "Edgy",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/d3f51253-1dd8-476f-8520-3d9fef7716c6/1758012581066/file.jpg",
+  "colors": [
+   {
+    "hex": "#86a6b8",
+    "share": 0.216
+   },
+   {
+    "hex": "#285873",
+    "share": 0.204
+   },
+   {
+    "hex": "#808190",
+    "share": 0.197
+   },
+   {
+    "hex": "#775e5a",
+    "share": 0.144
+   }
+  ]
+ },
+ {
+  "id": "argyle_sweater_feminine_everyday",
+  "title": "Argyle Sweater",
+  "category": "Everyday",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/abc97e26-2ab4-4bc9-b276-11028dbaeb97/1758012618556/file.jpg",
+  "colors": [
+   {
+    "hex": "#162950",
+    "share": 0.263
+   },
+   {
+    "hex": "#161621",
+    "share": 0.256
+   },
+   {
+    "hex": "#314572",
+    "share": 0.202
+   },
+   {
+    "hex": "#4d608d",
+    "share": 0.165
+   }
+  ]
+ },
+ {
+  "id": "long_grey_skirt_feminine_everyday",
+  "title": "Long Grey Skirt",
+  "category": "Everyday",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/f863200a-7d5a-419b-b4dd-17f19c43c2f5/1758012673244/file.png",
+  "colors": [
+   {
+    "hex": "#877a7a",
+    "share": 0.292
+   },
+   {
+    "hex": "#796a69",
+    "share": 0.282
+   },
+   {
+    "hex": "#544746",
+    "share": 0.169
+   },
+   {
+    "hex": "#9a8c8c",
+    "share": 0.148
+   }
+  ]
+ },
+ {
+  "id": "wide_leg_capris_feminine_everyday",
+  "title": "Wide-Leg Capris",
+  "category": "Everyday",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/9067a969-e122-4590-8454-b90643076168/1758012840422/file.jpg",
+  "colors": [
+   {
+    "hex": "#362d29",
+    "share": 0.534
+   },
+   {
+    "hex": "#50423c",
+    "share": 0.206
+   },
+   {
+    "hex": "#79665d",
+    "share": 0.145
+   },
+   {
+    "hex": "#9e918a",
+    "share": 0.116
+   }
+  ]
+ },
+ {
+  "id": "comfy_cargo_feminine_everyday",
+  "title": "Comfy Cargo",
+  "category": "Everyday",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/c753b1d4-5e49-49eb-8c58-f457dbdf9654/1758012888864/file.jpg",
+  "colors": [
+   {
+    "hex": "#705e33",
+    "share": 0.361
+   },
+   {
+    "hex": "#3e3013",
+    "share": 0.195
+   },
+   {
+    "hex": "#534420",
+    "share": 0.177
+   },
+   {
+    "hex": "#857143",
+    "share": 0.17
+   }
+  ]
+ },
+ {
+  "id": "boyfriend_jeans_feminine_everyday",
+  "title": "Boyfriend Jeans",
+  "category": "Everyday",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/7f57b539-83ab-42d8-ab3d-6051ed863e73/1758012956617/file.jpg",
+  "colors": [
+   {
+    "hex": "#496170",
+    "share": 0.324
+   },
+   {
+    "hex": "#6d8290",
+    "share": 0.222
+   },
+   {
+    "hex": "#344049",
+    "share": 0.189
+   },
+   {
+    "hex": "#8299aa",
+    "share": 0.15
+   }
+  ]
+ },
+ {
+  "id": "leather_mini_skirt_feminine_edgy",
+  "title": "Leather Mini Skirt",
+  "category": "Edgy",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/e28a661f-80ab-4b3d-81d4-7f278b2a0aa0/1758013036721/file.png",
+  "colors": [
+   {
+    "hex": "#1c1b1b",
+    "share": 0.243
+   },
+   {
+    "hex": "#86675a",
+    "share": 0.215
+   },
+   {
+    "hex": "#a07e6e",
+    "share": 0.185
+   },
+   {
+    "hex": "#38383b",
+    "share": 0.13
+   }
+  ]
+ },
+ {
+  "id": "camouflage_feminine_everyday",
+  "title": "Camouflage",
+  "category": "Everyday",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/0ee8227e-8ee2-4d48-a50b-754a1b1eee1a/1758013064791/file.jpg",
+  "colors": [
+   {
+    "hex": "#353329",
+    "share": 0.337
+   },
+   {
+    "hex": "#151512",
+    "share": 0.2
+   },
+   {
+    "hex": "#544e40",
+    "share": 0.179
+   },
+   {
+    "hex": "#807664",
+    "share": 0.17
+   }
+  ]
+ },
+ {
+  "id": "straight_leg_jeans_feminine_everyday",
+  "title": "Straight-Leg Jeans",
+  "category": "Everyday",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/e4f0c5c0-ea8e-4d89-beb7-5d0c1503189e/1758013093432/file.jpg",
+  "colors": [
+   {
+    "hex": "#21314a",
+    "share": 0.755
+   },
+   {
+    "hex": "#384b64",
+    "share": 0.143
+   },
+   {
+    "hex": "#8b8487",
+    "share": 0.101
+   }
+  ]
+ },
+ {
+  "id": "fire_flora_feminine_summer",
+  "title": "Fire Flora",
+  "category": "Summer",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/fac5319f-950d-442b-b9f4-5b539783afab/1757925739534/file.jpg",
+  "colors": [
+   {
+    "hex": "#1f1716",
+    "share": 0.256
+   },
+   {
+    "hex": "#9c6e5a",
+    "share": 0.235
+   },
+   {
+    "hex": "#a78371",
+    "share": 0.157
+   },
+   {
+    "hex": "#c72724",
+    "share": 0.125
+   }
+  ]
+ },
+ {
+  "id": "black_one_piece_feminine_summer",
+  "title": "Black One-piece",
+  "category": "Summer",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/931d445c-a2c3-4f58-af7a-82ccceb932fd/1757925809920/file.jpg",
+  "colors": [
+   {
+    "hex": "#1e1e1e",
+    "share": 0.503
+   },
+   {
+    "hex": "#a3806f",
+    "share": 0.196
+   },
+   {
+    "hex": "#8c6857",
+    "share": 0.19
+   },
+   {
+    "hex": "#c2aea4",
+    "share": 0.11
+   }
+  ]
+ },
+ {
+  "id": "berry_garden_feminine_summer",
+  "title": "Berry Garden",
+  "category": "Summer",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/3f734f96-6230-400c-8e46-9c4cb21d6e8c/1757925863997/file.jpg",
+  "colors": [
+   {
+    "hex": "#986f5e",
+    "share": 0.365
+   },
+   {
+    "hex": "#592b2b",
+    "share": 0.192
+   },
+   {
+    "hex": "#a28276",
+    "share": 0.174
+   },
+   {
+    "hex": "#b5a4a1",
+    "share": 0.159
+   }
+  ]
+ },
+ {
+  "id": "green_tropic_feminine_summer",
+  "title": "Green Tropic",
+  "category": "Summer",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/f1722634-3876-4d0b-85ed-cc7e74fa801c/1757926059835/file.jpg",
+  "colors": [
+   {
+    "hex": "#1a342e",
+    "share": 0.224
+   },
+   {
+    "hex": "#947d6e",
+    "share": 0.215
+   },
+   {
+    "hex": "#906957",
+    "share": 0.164
+   },
+   {
+    "hex": "#9a9991",
+    "share": 0.149
+   }
+  ]
+ },
+ {
+  "id": "lilac_wave_feminine_summer",
+  "title": "Lilac Wave",
+  "category": "Summer",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/a46e2b4f-9e1c-45d4-810d-df8174a96899/1757926103620/file.jpg",
+  "colors": [
+   {
+    "hex": "#bb95c5",
+    "share": 0.315
+   },
+   {
+    "hex": "#896363",
+    "share": 0.273
+   },
+   {
+    "hex": "#a27b85",
+    "share": 0.153
+   },
+   {
+    "hex": "#ab8fa3",
+    "share": 0.15
+   }
+  ]
+ },
+ {
+  "id": "pink_bloom_feminine_summer",
+  "title": "Pink Bloom",
+  "category": "Summer",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/de9fc9a9-eef6-4a7a-bc30-9874b3a75924/1757926146862/file.jpg",
+  "colors": [
+   {
+    "hex": "#936d5e",
+    "share": 0.307
+   },
+   {
+    "hex": "#493536",
+    "share": 0.176
+   },
+   {
+    "hex": "#f6cbc5",
+    "share": 0.172
+   },
+   {
+    "hex": "#9e7f71",
+    "share": 0.148
+   }
+  ]
+ },
+ {
+  "id": "sky_petal_feminine_summer",
+  "title": "Sky Petal",
+  "category": "Summer",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/e1edc852-4c79-42f6-99a7-d45ca5c5b77b/1757926196932/file.jpg",
+  "colors": [
+   {
+    "hex": "#b3b8c5",
+    "share": 0.213
+   },
+   {
+    "hex": "#9d7764",
+    "share": 0.202
+   },
+   {
+    "hex": "#aaa8af",
+    "share": 0.186
+   },
+   {
+    "hex": "#8a6454",
+    "share": 0.178
+   }
+  ]
+ },
+ {
+  "id": "alpine_red_dirndl_feminine_cultural_attire",
+  "title": "Alpine Red Dirndl",
+  "category": "Cultural Attire",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/7cdd256d-aba7-4bdf-9908-e4b52702cdb0/1757923659893/file.png",
+  "colors": [
+   {
+    "hex": "#071f1e",
+    "share": 0.312
+   },
+   {
+    "hex": "#6d605a",
+    "share": 0.172
+   },
+   {
+    "hex": "#bc9e9d",
+    "share": 0.146
+   },
+   {
+    "hex": "#eee8ea",
+    "share": 0.126
+   }
+  ]
+ },
+ {
+  "id": "tropical_golf_set_feminine_modern",
+  "title": "Tropical Golf Set",
+  "category": "Modern",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/bea61c62-c615-43df-8385-f514f31e7dd2/1757924445122/file.png",
+  "colors": [
+   {
+    "hex": "#916e5e",
+    "share": 0.293
+   },
+   {
+    "hex": "#f9dee4",
+    "share": 0.285
+   },
+   {
+    "hex": "#fafafa",
+    "share": 0.201
+   },
+   {
+    "hex": "#c1a3a1",
+    "share": 0.134
+   }
+  ]
+ },
+ {
+  "id": "blue_floral_qipao_feminine_modern",
+  "title": "Blue Floral Qipao",
+  "category": "Modern",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/29c8d24f-c6c0-4f40-940f-566ff9f1f260/1757923709154/file.png",
+  "colors": [
+   {
+    "hex": "#9ca0ac",
+    "share": 0.245
+   },
+   {
+    "hex": "#36425e",
+    "share": 0.199
+   },
+   {
+    "hex": "#f9fafa",
+    "share": 0.17
+   },
+   {
+    "hex": "#627492",
+    "share": 0.165
+   }
+  ]
+ },
+ {
+  "id": "embroidered_dress_feminine_modern",
+  "title": "Embroidered Dress",
+  "category": "Modern",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/56c6a016-2995-448f-a10f-fd67fbe50b61/1757923750794/file.png",
+  "colors": [
+   {
+    "hex": "#680f13",
+    "share": 0.287
+   },
+   {
+    "hex": "#400908",
+    "share": 0.241
+   },
+   {
+    "hex": "#7a261a",
+    "share": 0.127
+   },
+   {
+    "hex": "#947d77",
+    "share": 0.123
+   }
+  ]
+ },
+ {
+  "id": "thai_style_gown_feminine_cultural_attire",
+  "title": "Thai-Style Gown",
+  "category": "Cultural Attire",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/348c0977-a7d4-426e-a413-b6ec64db9e20/1757924485285/file.jpg",
+  "colors": [
+   {
+    "hex": "#a87777",
+    "share": 0.38
+   },
+   {
+    "hex": "#926563",
+    "share": 0.362
+   },
+   {
+    "hex": "#714b3e",
+    "share": 0.158
+   },
+   {
+    "hex": "#c3a38d",
+    "share": 0.099
+   }
+  ]
+ },
+ {
+  "id": "beige_floral_qipao_feminine_cultural_attire",
+  "title": "Beige Floral Qipao",
+  "category": "Cultural Attire",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/d40bb554-436a-451d-917a-259feb5b1e30/1757924547722/file.jpg",
+  "colors": [
+   {
+    "hex": "#a29883",
+    "share": 0.326
+   },
+   {
+    "hex": "#c2b5a0",
+    "share": 0.248
+   },
+   {
+    "hex": "#8d7662",
+    "share": 0.183
+   },
+   {
+    "hex": "#f2e6da",
+    "share": 0.138
+   }
+  ]
+ },
+ {
+  "id": "boho_dress_feminine_modern",
+  "title": "Boho Dress",
+  "category": "Modern",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/4fd2aac6-22db-40f9-aa7d-883f65adaa5d/1758009543207/file.jpg",
+  "colors": [
+   {
+    "hex": "#3d3c45",
+    "share": 0.24
+   },
+   {
+    "hex": "#97634b",
+    "share": 0.194
+   },
+   {
+    "hex": "#a39585",
+    "share": 0.189
+   },
+   {
+    "hex": "#d0baa4",
+    "share": 0.139
+   }
+  ]
+ },
+ {
+  "id": "citrus_puff_dress_feminine_summer",
+  "title": "Citrus Puff Dress",
+  "category": "Summer",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/8fcae375-6a4d-4585-afb4-336c46c6f43f/1758009649425/file.png",
+  "colors": [
+   {
+    "hex": "#9cb32b",
+    "share": 0.519
+   },
+   {
+    "hex": "#b6c955",
+    "share": 0.186
+   },
+   {
+    "hex": "#c4d668",
+    "share": 0.165
+   },
+   {
+    "hex": "#d7e481",
+    "share": 0.129
+   }
+  ]
+ },
+ {
+  "id": "mini_black_ballgown_feminine_modern",
+  "title": "Mini Black Ballgown",
+  "category": "Modern",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/dca43fa1-a3a9-4c59-a49d-021f3e9e88a3/1758009735754/file.png",
+  "colors": [
+   {
+    "hex": "#1e2328",
+    "share": 0.612
+   },
+   {
+    "hex": "#2b3239",
+    "share": 0.164
+   },
+   {
+    "hex": "#9f8b81",
+    "share": 0.133
+   },
+   {
+    "hex": "#4d4d4e",
+    "share": 0.091
+   }
+  ]
+ },
+ {
+  "id": "navy_gala_gown_feminine_modern",
+  "title": "Navy Gala Gown",
+  "category": "Modern",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/bebd774e-6635-48b6-a78b-b29325d0051d/1758009798103/file.png",
+  "colors": [
+   {
+    "hex": "#101931",
+    "share": 0.253
+   },
+   {
+    "hex": "#1b2f4e",
+    "share": 0.219
+   },
+   {
+    "hex": "#1d466e",
+    "share": 0.205
+   },
+   {
+    "hex": "#536c81",
+    "share": 0.148
+   }
+  ]
+ },
+ {
+  "id": "mint_midi_tulle_feminine_summer",
+  "title": "Mint Midi Tulle",
+  "category": "Summer",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/44fcc71d-cf6d-4920-8436-88d2173f5e30/1758009850271/file.jpg",
+  "colors": [
+   {
+    "hex": "#9cb492",
+    "share": 0.473
+   },
+   {
+    "hex": "#799a71",
+    "share": 0.355
+   },
+   {
+    "hex": "#72815f",
+    "share": 0.173
+   }
+  ]
+ },
+ {
+  "id": "yellow_blossom_dress_feminine_summer",
+  "title": "Yellow Blossom Dress",
+  "category": "Summer",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/79538fce-d8ba-4cbf-87b4-fea0faf96731/1758009899420/file.jpg",
+  "colors": [
+   {
+    "hex": "#f1e5cd",
+    "share": 0.334
+   },
+   {
+    "hex": "#eec478",
+    "share": 0.203
+   },
+   {
+    "hex": "#a8876b",
+    "share": 0.197
+   },
+   {
+    "hex": "#f0d8a7",
+    "share": 0.135
+   }
+  ]
+ },
+ {
+  "id": "shiny_silver_gown_feminine_modern",
+  "title": "Shiny Silver Gown",
+  "category": "Modern",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/c6881080-2d9d-4e2e-b608-6994d1602a38/1758010050804/file.png",
+  "colors": [
+   {
+    "hex": "#897d71",
+    "share": 0.577
+   },
+   {
+    "hex": "#706154",
+    "share": 0.178
+   },
+   {
+    "hex": "#b1a7a1",
+    "share": 0.127
+   },
+   {
+    "hex": "#978d84",
+    "share": 0.118
+   }
+  ]
+ },
+ {
+  "id": "orange_two_piece_feminine_modern",
+  "title": "Orange Two-Piece",
+  "category": "Modern",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/ecad56c6-dc27-4bed-a3f7-0a3037e3e57f/1758010129193/file.jpg",
+  "colors": [
+   {
+    "hex": "#f09045",
+    "share": 0.459
+   },
+   {
+    "hex": "#9b4610",
+    "share": 0.305
+   },
+   {
+    "hex": "#dfac85",
+    "share": 0.088
+   },
+   {
+    "hex": "#ca6822",
+    "share": 0.081
+   }
+  ]
+ },
+ {
+  "id": "red_elegant_jumpsuit_feminine_modern",
+  "title": "Red Elegant Jumpsuit",
+  "category": "Modern",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/717c07df-a4f9-4199-b6c4-5d4ee5d6e19a/1758010177651/file.jpg",
+  "colors": [
+   {
+    "hex": "#e40006",
+    "share": 0.484
+   },
+   {
+    "hex": "#c40016",
+    "share": 0.438
+   },
+   {
+    "hex": "#b84d4e",
+    "share": 0.078
+   }
+  ]
+ },
+ {
+  "id": "strapless_gold_dress_feminine_modern",
+  "title": "Strapless Gold Dress",
+  "category": "Modern",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/774df440-1778-4b6e-a6f7-048a9beb3fd8/1758010228365/file.jpg",
+  "colors": [
+   {
+    "hex": "#bc7202",
+    "share": 0.368
+   },
+   {
+    "hex": "#e5a81c",
+    "share": 0.182
+   },
+   {
+    "hex": "#9f5d07",
+    "share": 0.178
+   },
+   {
+    "hex": "#cd8c10",
+    "share": 0.175
+   }
+  ]
+ },
+ {
+  "id": "bold_high_low_feminine_modern",
+  "title": "Bold High-Low",
+  "category": "Modern",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/45d95789-ee6b-4363-9a33-ea6751eb0e0b/1758010273438/file.jpg",
+  "colors": [
+   {
+    "hex": "#c9282d",
+    "share": 0.25
+   },
+   {
+    "hex": "#183455",
+    "share": 0.22
+   },
+   {
+    "hex": "#026ea9",
+    "share": 0.192
+   },
+   {
+    "hex": "#1792b6",
+    "share": 0.126
+   }
+  ]
+ },
+ {
+  "id": "pleated_green_dress_feminine_modern",
+  "title": "Pleated Green Dress",
+  "category": "Modern",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/5e8be0db-2ad6-4643-b234-564105f8c033/1758010313203/file.jpg",
+  "colors": [
+   {
+    "hex": "#106860",
+    "share": 0.278
+   },
+   {
+    "hex": "#1d534a",
+    "share": 0.176
+   },
+   {
+    "hex": "#8eb8b0",
+    "share": 0.169
+   },
+   {
+    "hex": "#328a81",
+    "share": 0.149
+   }
+  ]
+ },
+ {
+  "id": "chic_collar_feminine_edgy",
+  "title": "Chic Collar",
+  "category": "Edgy",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/19a64e91-dbd3-4633-a8f2-243f7821f057/1758010355435/file.jpg",
+  "colors": [
+   {
+    "hex": "#1b1c10",
+    "share": 0.794
+   },
+   {
+    "hex": "#ab9185",
+    "share": 0.154
+   }
+  ]
+ },
+ {
+  "id": "denim_shirt_dress_feminine_everyday",
+  "title": "Denim Shirt Dress",
+  "category": "Everyday",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/f395bd61-d40b-4eda-a7a3-7af8bf126924/1758010406821/file.jpg",
+  "colors": [
+   {
+    "hex": "#314055",
+    "share": 0.243
+   },
+   {
+    "hex": "#1f1d24",
+    "share": 0.225
+   },
+   {
+    "hex": "#3c5878",
+    "share": 0.191
+   },
+   {
+    "hex": "#767782",
+    "share": 0.173
+   }
+  ]
+ },
+ {
+  "id": "flowy_black_dress_feminine_modern",
+  "title": "Flowy Black Dress",
+  "category": "Modern",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/aa916022-6565-40be-9ec3-d83cc90ab4bd/1758010448683/file.jpg",
+  "colors": [
+   {
+    "hex": "#1d1d14",
+    "share": 0.892
+   },
+   {
+    "hex": "#675950",
+    "share": 0.107
+   }
+  ]
+ },
+ {
+  "id": "red_babydoll_dress_feminine_modern",
+  "title": "Red Babydoll Dress",
+  "category": "Modern",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/80f0db11-3856-49cd-8db6-91eb82165c0b/1758010527935/file.jpg",
+  "colors": [
+   {
+    "hex": "#e7252b",
+    "share": 0.323
+   },
+   {
+    "hex": "#8f050e",
+    "share": 0.249
+   },
+   {
+    "hex": "#c3131b",
+    "share": 0.178
+   },
+   {
+    "hex": "#9b675c",
+    "share": 0.142
+   }
+  ]
+ },
+ {
+  "id": "denim_duo_feminine_modern",
+  "title": "Denim Duo",
+  "category": "Modern",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/b8007849-d1f9-46f3-85c1-8ecb57f64b58/1758010567643/file.jpg",
+  "colors": [
+   {
+    "hex": "#232537",
+    "share": 0.597
+   },
+   {
+    "hex": "#191821",
+    "share": 0.151
+   },
+   {
+    "hex": "#353447",
+    "share": 0.139
+   },
+   {
+    "hex": "#928078",
+    "share": 0.113
+   }
+  ]
+ },
+ {
+  "id": "ruffle_wrap_dress_feminine_modern",
+  "title": "Ruffle Wrap Dress",
+  "category": "Modern",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/4debe2b1-c35d-4a2e-b4e4-e8896950143e/1758010609318/file.jpg",
+  "colors": [
+   {
+    "hex": "#871717",
+    "share": 0.665
+   },
+   {
+    "hex": "#580d0c",
+    "share": 0.204
+   },
+   {
+    "hex": "#ae9084",
+    "share": 0.131
+   }
+  ]
+ },
+ {
+  "id": "tweed_m_lange_feminine_modern",
+  "title": "Tweed M\u00e9lange",
+  "category": "Modern",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/e3f409ae-c8e1-457a-8ce2-058a4af46478/1758010711678/file.png",
+  "colors": [
+   {
+    "hex": "#8f7c7a",
+    "share": 0.29
+   },
+   {
+    "hex": "#ab9896",
+    "share": 0.226
+   },
+   {
+    "hex": "#74594f",
+    "share": 0.195
+   },
+   {
+    "hex": "#baa8a6",
+    "share": 0.193
+   }
+  ]
+ },
+ {
+  "id": "game_suit_feminine_costume",
+  "title": "Game Suit",
+  "category": "Costume",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/ab1abdcb-cc52-4ea9-9159-6194caf1667c/1758010749222/file.jpg",
+  "colors": [
+   {
+    "hex": "#9b1b33",
+    "share": 0.272
+   },
+   {
+    "hex": "#600b1a",
+    "share": 0.201
+   },
+   {
+    "hex": "#f05973",
+    "share": 0.178
+   },
+   {
+    "hex": "#a43147",
+    "share": 0.155
+   }
+  ]
+ },
+ {
+  "id": "floral_maxi_dress_feminine_summer",
+  "title": "Floral Maxi Dress",
+  "category": "Summer",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/1d409292-da1e-4e03-9b06-98dd0c655f23/1758010793987/file.jpg",
+  "colors": [
+   {
+    "hex": "#c3a7a0",
+    "share": 0.219
+   },
+   {
+    "hex": "#793f37",
+    "share": 0.183
+   },
+   {
+    "hex": "#9f7a6b",
+    "share": 0.179
+   },
+   {
+    "hex": "#b2877e",
+    "share": 0.16
+   }
+  ]
+ },
+ {
+  "id": "mini_strapless_dress_feminine_summer",
+  "title": "Mini Strapless Dress",
+  "category": "Summer",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/a413412b-b336-4468-b691-ea04c50756be/1758010837701/file.png",
+  "colors": [
+   {
+    "hex": "#a0bfda",
+    "share": 0.388
+   },
+   {
+    "hex": "#73625d",
+    "share": 0.229
+   },
+   {
+    "hex": "#7195b3",
+    "share": 0.159
+   },
+   {
+    "hex": "#bed3e9",
+    "share": 0.131
+   }
+  ]
+ },
+ {
+  "id": "mustard_midi_look_feminine_modern",
+  "title": "Mustard Midi Look",
+  "category": "Modern",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/594f6b5b-f44a-4aba-ab39-498daaf17713/1758010882630/file.png",
+  "colors": [
+   {
+    "hex": "#e79d18",
+    "share": 0.432
+   },
+   {
+    "hex": "#b26d1a",
+    "share": 0.175
+   },
+   {
+    "hex": "#c97c0d",
+    "share": 0.174
+   },
+   {
+    "hex": "#724319",
+    "share": 0.167
+   }
+  ]
+ },
+ {
+  "id": "gold_midi_dress_feminine_modern",
+  "title": "Gold Midi Dress",
+  "category": "Modern",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/b1b8f59a-0dfa-4837-a5ac-75ae14cc05bc/1778233778002/file.jpg",
+  "colors": [
+   {
+    "hex": "#c2a99e",
+    "share": 0.395
+   },
+   {
+    "hex": "#a3877b",
+    "share": 0.338
+   },
+   {
+    "hex": "#8a6b5c",
+    "share": 0.178
+   },
+   {
+    "hex": "#d4beb3",
+    "share": 0.089
+   }
+  ]
+ },
+ {
+  "id": "blush_blue_feminine_modern",
+  "title": "Blush & Blue",
+  "category": "Modern",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/63bfc789-deca-4137-92b3-9562acc48e4b/1758010977620/file.jpg",
+  "colors": [
+   {
+    "hex": "#7b4f4d",
+    "share": 0.214
+   },
+   {
+    "hex": "#a9bdc7",
+    "share": 0.213
+   },
+   {
+    "hex": "#b8d8e7",
+    "share": 0.167
+   },
+   {
+    "hex": "#a88882",
+    "share": 0.145
+   }
+  ]
+ },
+ {
+  "id": "sporty_chic_denim_feminine_summer",
+  "title": "Sporty Chic Denim",
+  "category": "Summer",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/a37138b2-c885-45dc-b0bc-35fe18461d26/1761806787114/file.jpg",
+  "colors": [
+   {
+    "hex": "#99aec3",
+    "share": 0.245
+   },
+   {
+    "hex": "#745c52",
+    "share": 0.211
+   },
+   {
+    "hex": "#e9e8f1",
+    "share": 0.163
+   },
+   {
+    "hex": "#a58575",
+    "share": 0.158
+   }
+  ]
+ },
+ {
+  "id": "schoolgirl_chic_feminine_everyday",
+  "title": "Schoolgirl Chic",
+  "category": "Everyday",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/ef2f9b9f-485c-46b5-96c7-07e729c4df30/1758011071910/file.jpg",
+  "colors": [
+   {
+    "hex": "#1b1b1c",
+    "share": 0.237
+   },
+   {
+    "hex": "#979796",
+    "share": 0.21
+   },
+   {
+    "hex": "#7f7976",
+    "share": 0.173
+   },
+   {
+    "hex": "#302f31",
+    "share": 0.147
+   }
+  ]
+ },
+ {
+  "id": "white_ruffled_maxi_feminine_edgy",
+  "title": "White Ruffled Maxi",
+  "category": "Edgy",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/9b4c7695-ac3b-479a-8af4-87243eb0c65f/1758011267248/file.jpg",
+  "colors": [
+   {
+    "hex": "#b0ada1",
+    "share": 0.633
+   },
+   {
+    "hex": "#dbe4e7",
+    "share": 0.208
+   },
+   {
+    "hex": "#978173",
+    "share": 0.158
+   }
+  ]
+ },
+ {
+  "id": "lounge_mode_feminine_everyday",
+  "title": "Lounge Mode",
+  "category": "Everyday",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/18e69641-c7af-44ff-8b3c-c3bf3be7e125/1758011372399/file.png",
+  "colors": [
+   {
+    "hex": "#5a4139",
+    "share": 0.536
+   },
+   {
+    "hex": "#917266",
+    "share": 0.205
+   },
+   {
+    "hex": "#7a5c53",
+    "share": 0.171
+   },
+   {
+    "hex": "#ae9990",
+    "share": 0.088
+   }
+  ]
+ },
+ {
+  "id": "evergreen_feminine_modern",
+  "title": "Evergreen",
+  "category": "Modern",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/d7d93052-138d-4311-98f7-ad68fcada0e0/1758011417399/file.jpg",
+  "colors": [
+   {
+    "hex": "#6f7062",
+    "share": 0.321
+   },
+   {
+    "hex": "#928e80",
+    "share": 0.225
+   },
+   {
+    "hex": "#a5a394",
+    "share": 0.183
+   },
+   {
+    "hex": "#4f4438",
+    "share": 0.181
+   }
+  ]
+ },
+ {
+  "id": "black_gala_dress_feminine_modern",
+  "title": "Black Gala Dress",
+  "category": "Modern",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/fdd92416-135a-497c-b9c1-26a688a94003/1761803630812/file.jpg",
+  "colors": [
+   {
+    "hex": "#141114",
+    "share": 0.741
+   },
+   {
+    "hex": "#26242a",
+    "share": 0.154
+   },
+   {
+    "hex": "#675f5d",
+    "share": 0.106
+   }
+  ]
+ },
+ {
+  "id": "edgy_black_gown_feminine_edgy",
+  "title": "Edgy Black Gown",
+  "category": "Edgy",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/afaf1b9f-89b8-44f4-9839-4d2aa9a791cb/1758011496571/file.jpg",
+  "colors": [
+   {
+    "hex": "#211611",
+    "share": 0.646
+   },
+   {
+    "hex": "#443931",
+    "share": 0.14
+   },
+   {
+    "hex": "#998176",
+    "share": 0.111
+   },
+   {
+    "hex": "#70060e",
+    "share": 0.102
+   }
+  ]
+ },
+ {
+  "id": "pink_puff_mini_dress_feminine_modern",
+  "title": "Pink Puff Mini Dress",
+  "category": "Modern",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/6672dcad-6dd5-498b-bbe2-703b0dc73297/1758011538256/file.jpg",
+  "colors": [
+   {
+    "hex": "#f8e5e9",
+    "share": 0.492
+   },
+   {
+    "hex": "#855f51",
+    "share": 0.223
+   },
+   {
+    "hex": "#ae8982",
+    "share": 0.144
+   },
+   {
+    "hex": "#c8aaac",
+    "share": 0.139
+   }
+  ]
+ },
+ {
+  "id": "classic_preppy_look_feminine_everyday",
+  "title": "Classic Preppy Look",
+  "category": "Everyday",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/f2e8b351-1e85-4b74-abb3-f183b5378e79/1758011580217/file.jpg",
+  "colors": [
+   {
+    "hex": "#b13704",
+    "share": 0.214
+   },
+   {
+    "hex": "#45230f",
+    "share": 0.209
+   },
+   {
+    "hex": "#b98958",
+    "share": 0.204
+   },
+   {
+    "hex": "#703111",
+    "share": 0.183
+   }
+  ]
+ },
+ {
+  "id": "pink_tweed_feminine_modern",
+  "title": "Pink Tweed",
+  "category": "Modern",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/08d4e79e-8025-438f-8b66-b5858b6ca24a/1758011658010/file.jpg",
+  "colors": [
+   {
+    "hex": "#f8bec9",
+    "share": 0.484
+   },
+   {
+    "hex": "#896154",
+    "share": 0.254
+   },
+   {
+    "hex": "#e6a2b0",
+    "share": 0.183
+   },
+   {
+    "hex": "#bf9392",
+    "share": 0.079
+   }
+  ]
+ },
+ {
+  "id": "stellar_metallic_set_feminine_edgy",
+  "title": "Stellar Metallic Set",
+  "category": "Edgy",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/608034c8-5fce-4bf3-975d-91d63a300247/1758011702869/file.jpg",
+  "colors": [
+   {
+    "hex": "#423a4d",
+    "share": 0.24
+   },
+   {
+    "hex": "#908c9c",
+    "share": 0.221
+   },
+   {
+    "hex": "#7d6c7b",
+    "share": 0.174
+   },
+   {
+    "hex": "#9fb5ca",
+    "share": 0.143
+   }
+  ]
+ },
+ {
+  "id": "golden_glow_midi_feminine_modern",
+  "title": "Golden Glow Midi",
+  "category": "Modern",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/5240a05b-4e7b-421b-a620-ca9106ba3311/1778233693136/file.jpg",
+  "colors": [
+   {
+    "hex": "#8c745c",
+    "share": 0.35
+   },
+   {
+    "hex": "#b5a893",
+    "share": 0.201
+   },
+   {
+    "hex": "#765741",
+    "share": 0.178
+   },
+   {
+    "hex": "#a89179",
+    "share": 0.175
+   }
+  ]
+ },
+ {
+  "id": "colorblock_pink_midi_feminine_summer",
+  "title": "Colorblock Pink Midi",
+  "category": "Summer",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/28e9c5c1-c244-4f32-a79d-e80af3be4d8e/1758011863327/file.jpg",
+  "colors": [
+   {
+    "hex": "#db3c83",
+    "share": 0.258
+   },
+   {
+    "hex": "#b58d98",
+    "share": 0.198
+   },
+   {
+    "hex": "#804360",
+    "share": 0.171
+   },
+   {
+    "hex": "#d9b8c1",
+    "share": 0.138
+   }
+  ]
+ },
+ {
+  "id": "color_pop_feminine_summer",
+  "title": "Color Pop",
+  "category": "Summer",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/d4a609e6-8407-442a-927e-551497ad5c94/1758011902255/file.jpg",
+  "colors": [
+   {
+    "hex": "#4d3742",
+    "share": 0.201
+   },
+   {
+    "hex": "#c6a9b2",
+    "share": 0.193
+   },
+   {
+    "hex": "#697074",
+    "share": 0.188
+   },
+   {
+    "hex": "#ac7379",
+    "share": 0.152
+   }
+  ]
+ },
+ {
+  "id": "black_lace_dress_feminine_modern",
+  "title": "Black Lace Dress",
+  "category": "Modern",
+  "style": "feminine",
+  "thumb": "https://app-cdn.makeupar.com/cms/eac6d783-d019-49b7-b3db-9749395e22be/1758011939523/file.jpg",
+  "colors": [
+   {
+    "hex": "#161517",
+    "share": 0.219
+   },
+   {
+    "hex": "#665e5a",
+    "share": 0.177
+   },
+   {
+    "hex": "#8b817c",
+    "share": 0.169
+   },
+   {
+    "hex": "#443f3e",
+    "share": 0.165
+   }
+  ]
+ }
+]
